@@ -1,0 +1,472 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Miami,Miami,25.7839,-80.2102,United States,US,USA,Florida,,6445545,1840015149
+Tampa,Tampa,27.9942,-82.4451,United States,US,USA,Florida,,2908063,1840015982
+Orlando,Orlando,28.4772,-81.3369,United States,US,USA,Florida,,1822394,1840015099
+Jacksonville,Jacksonville,30.3322,-81.6749,United States,US,USA,Florida,,1181496,1840015031
+Sarasota,Sarasota,27.3386,-82.5431,United States,US,USA,Florida,,722243,1840015988
+Cape Coral,Cape Coral,26.6446,-81.9956,United States,US,USA,Florida,,668382,1840015130
+Palm Bay,Palm Bay,27.955,-80.6627,United States,US,USA,Florida,,507002,1840015094
+Port St. Lucie,Port St. Lucie,27.2796,-80.3883,United States,US,USA,Florida,,461152,1840015119
+Bonita Springs,Bonita Springs,26.3559,-81.7861,United States,US,USA,Florida,,421291,1840014227
+Palm Coast,Palm Coast,29.5392,-81.246,United States,US,USA,Florida,,417007,1840015064
+Kissimmee,Kissimmee,28.3042,-81.4164,United States,US,USA,Florida,,382720,1840015109
+Pensacola,Pensacola,30.4427,-87.1886,United States,US,USA,Florida,,346921,1840015005
+Lakeland,Lakeland,28.0556,-81.9545,United States,US,USA,Florida,,302284,1840015108
+Winter Haven,Winter Haven,28.0118,-81.7017,United States,US,USA,Florida,,267069,1840015970
+St. Petersburg,St. Petersburg,27.7931,-82.6652,United States,US,USA,Florida,,265351,1840015977
+Tallahassee,Tallahassee,30.4551,-84.2526,United States,US,USA,Florida,admin,257601,1840015913
+Hialeah,Hialeah,25.8696,-80.3046,United States,US,USA,Florida,,233339,1840015157
+North Port,North Port,27.0577,-82.1975,United States,US,USA,Florida,,209070,1840015120
+Gainesville,Gainesville,29.6804,-82.3458,United States,US,USA,Florida,,202335,1840014022
+Deltona,Deltona,28.905,-81.2137,United States,US,USA,Florida,,198361,1840015072
+Fort Lauderdale,Fort Lauderdale,26.1412,-80.1464,United States,US,USA,Florida,,182437,1840014236
+Pembroke Pines,Pembroke Pines,26.0128,-80.3382,United States,US,USA,Florida,,173591,1840015141
+Ocala,Ocala,29.178,-82.1511,United States,US,USA,Florida,,169383,1840015067
+Hollywood,Hollywood,26.0294,-80.1679,United States,US,USA,Florida,,154817,1840015144
+Leesburg,Leesburg,28.7657,-81.8996,United States,US,USA,Florida,,154574,1840015083
+Miramar,Miramar,25.9773,-80.3351,United States,US,USA,Florida,,141191,1840015137
+Panama City,Panama City,30.1995,-85.6004,United States,US,USA,Florida,,136133,1840015034
+Coral Springs,Coral Springs,26.2702,-80.2591,United States,US,USA,Florida,,133759,1840015134
+Lehigh Acres,Lehigh Acres,26.612,-81.6388,United States,US,USA,Florida,,123378,1840014220
+Clearwater,Clearwater,27.9789,-82.7622,United States,US,USA,Florida,,116946,1840015110
+Brandon,Brandon,27.9367,-82.3,United States,US,USA,Florida,,115911,1840014151
+Pompano Beach,Pompano Beach,26.2428,-80.1312,United States,US,USA,Florida,,112118,1840015143
+West Palm Beach,West Palm Beach,26.7468,-80.1316,United States,US,USA,Florida,,111955,1840015993
+Spring Hill,Spring Hill,28.4797,-82.53,United States,US,USA,Florida,,111076,1840014105
+Miami Gardens,Miami Gardens,25.9433,-80.2426,United States,US,USA,Florida,,110001,1840015151
+Davie,Davie,26.0789,-80.287,United States,US,USA,Florida,,106306,1840017272
+Sunrise,Sunrise,26.1547,-80.2997,United States,US,USA,Florida,,95166,1840016000
+Miami Beach,Miami Beach,25.8171,-80.1396,United States,US,USA,Florida,,88885,1840015150
+Deerfield Beach,Deerfield Beach,26.305,-80.1277,United States,US,USA,Florida,,81066,1840015136
+Pine Hills,Pine Hills,28.5818,-81.4693,United States,US,USA,Florida,,78995,1840014098
+Lauderhill,Lauderhill,26.1605,-80.2242,United States,US,USA,Florida,,71868,1840015146
+Tamarac,Tamarac,26.2056,-80.2542,United States,US,USA,Florida,,66721,1840016001
+North Miami,North Miami,25.9007,-80.1686,United States,US,USA,Florida,,62822,1840015154
+The Hammocks,The Hammocks,25.67,-80.4483,United States,US,USA,Florida,,61516,1840029009
+Coconut Creek,Coconut Creek,26.2803,-80.1842,United States,US,USA,Florida,,61248,1840015132
+Fountainebleau,Fountainebleau,25.7723,-80.3458,United States,US,USA,Florida,,60547,1840028983
+Margate,Margate,26.2466,-80.2119,United States,US,USA,Florida,,58796,1840015999
+Tamiami,Tamiami,25.7556,-80.4016,United States,US,USA,Florida,,56225,1840029085
+Kendale Lakes,Kendale Lakes,25.7081,-80.4078,United States,US,USA,Florida,,56182,1840029045
+Country Club,Country Club,25.9407,-80.3102,United States,US,USA,Florida,,50431,1840029029
+University,University,28.0771,-82.4335,United States,US,USA,Florida,,48436,1840073852
+Oakland Park,Oakland Park,26.178,-80.1528,United States,US,USA,Florida,,45202,1840015139
+North Lauderdale,North Lauderdale,26.2113,-80.2209,United States,US,USA,Florida,,44262,1840015138
+North Miami Beach,North Miami Beach,25.9302,-80.166,United States,US,USA,Florida,,43041,1840015155
+Greenacres,Greenacres,26.6272,-80.1371,United States,US,USA,Florida,,41117,1840036057
+Hallandale Beach,Hallandale Beach,25.9854,-80.1423,United States,US,USA,Florida,,39847,1840014237
+Lake Worth,Lake Worth,26.6196,-80.0591,United States,US,USA,Florida,,38526,1840015127
+Kendall West,Kendall West,25.7065,-80.4388,United States,US,USA,Florida,,38433,1840035805
+Egypt Lake-Leto,Egypt Lake-Leto,28.0177,-82.5062,United States,US,USA,Florida,,37704,1840073269
+Richmond West,Richmond West,25.6105,-80.4297,United States,US,USA,Florida,,37486,1840073270
+South Miami Heights,South Miami Heights,25.5886,-80.3862,United States,US,USA,Florida,,37119,1840014240
+Aventura,Aventura,25.9565,-80.1372,United States,US,USA,Florida,,36987,1840014243
+Lauderdale Lakes,Lauderdale Lakes,26.1682,-80.2017,United States,US,USA,Florida,,36194,1840015145
+Buenaventura Lakes,Buenaventura Lakes,28.3349,-81.3539,United States,US,USA,Florida,,34784,1840028974
+Golden Glades,Golden Glades,25.9129,-80.2013,United States,US,USA,Florida,,34109,1840029039
+West Little River,West Little River,25.857,-80.2367,United States,US,USA,Florida,,32897,1840029096
+Miami Lakes,Miami Lakes,25.9125,-80.3214,United States,US,USA,Florida,,31367,1840017275
+Westchester,Westchester,25.7474,-80.3358,United States,US,USA,Florida,,29778,1840014241
+Golden Gate,Golden Gate,26.1844,-81.7031,United States,US,USA,Florida,,29552,1840014228
+Leisure City,Leisure City,25.4937,-80.4369,United States,US,USA,Florida,,26652,1840014245
+University Park,University Park,25.7469,-80.3684,United States,US,USA,Florida,,26620,1840029013
+Coral Terrace,Coral Terrace,25.7464,-80.3049,United States,US,USA,Florida,,25387,1840029028
+South Bradenton,South Bradenton,27.4612,-82.5821,United States,US,USA,Florida,,25227,1840029076
+Palm Springs,Palm Springs,26.6349,-80.0968,United States,US,USA,Florida,,25216,1840018308
+Oak Ridge,Oak Ridge,28.4727,-81.4169,United States,US,USA,Florida,,24004,1840029062
+Hialeah Gardens,Hialeah Gardens,25.8878,-80.3569,United States,US,USA,Florida,,23474,1840015158
+Ives Estates,Ives Estates,25.9632,-80.183,United States,US,USA,Florida,,22707,1840028705
+The Crossings,The Crossings,25.6708,-80.4018,United States,US,USA,Florida,,22441,1840029008
+Lealman,Lealman,27.8197,-82.6847,United States,US,USA,Florida,,22034,1840025161
+Jasmine Estates,Jasmine Estates,28.293,-82.6907,United States,US,USA,Florida,,21865,1840014116
+Sunny Isles Beach,Sunny Isles Beach,25.9385,-80.1246,United States,US,USA,Florida,,21804,1840016007
+Sweetwater,Sweetwater,25.7786,-80.376,United States,US,USA,Florida,,20994,1840016008
+Bayshore Gardens,Bayshore Gardens,27.4345,-82.5794,United States,US,USA,Florida,,20287,1840014168
+Pinewood,Pinewood,25.8697,-80.2174,United States,US,USA,Florida,,17542,1840029066
+Country Walk,Country Walk,25.6331,-80.4353,United States,US,USA,Florida,,17496,1840028979
+Brownsville,Brownsville,25.8216,-80.2417,United States,US,USA,Florida,,17051,1840029024
+Ojus,Ojus,25.9563,-80.1606,United States,US,USA,Florida,,16417,1840028742
+Palmetto Estates,Palmetto Estates,25.6211,-80.3616,United States,US,USA,Florida,,15640,1840029063
+West Park,West Park,25.984,-80.1923,United States,US,USA,Florida,,15089,1840016002
+Olympia Heights,Olympia Heights,25.7241,-80.339,United States,US,USA,Florida,,13958,1840014247
+Key Biscayne,Key Biscayne,25.6908,-80.1653,United States,US,USA,Florida,,12846,1840018333
+Wilton Manors,Wilton Manors,26.1593,-80.1395,United States,US,USA,Florida,,12756,1840016004
+Lantana,Lantana,26.5834,-80.0564,United States,US,USA,Florida,,12581,1840017259
+South Miami,South Miami,25.7079,-80.2952,United States,US,USA,Florida,,11911,1840016006
+Naranja,Naranja,25.5164,-80.4221,United States,US,USA,Florida,,11778,1840014246
+Westwood Lakes,Westwood Lakes,25.7237,-80.3717,United States,US,USA,Florida,,11510,1840028796
+Richmond Heights,Richmond Heights,25.6347,-80.372,United States,US,USA,Florida,,10524,1840014249
+West Perrine,West Perrine,25.6061,-80.3639,United States,US,USA,Florida,,9826,1840029018
+Westgate,Westgate,26.6994,-80.0989,United States,US,USA,Florida,,9783,1840042909
+West Miami,West Miami,25.7578,-80.2969,United States,US,USA,Florida,,8767,1840016009
+Broadview Park,Broadview Park,26.0979,-80.2088,United States,US,USA,Florida,,8169,1840028918
+North Bay Village,North Bay Village,25.8487,-80.1535,United States,US,USA,Florida,,8057,1840015153
+Sky Lake,Sky Lake,28.4611,-81.3912,United States,US,USA,Florida,,7331,1840014085
+Lauderdale-by-the-Sea,Lauderdale-by-the-Sea,26.199,-80.0972,United States,US,USA,Florida,,6664,1840017271
+Naples Manor,Naples Manor,26.0892,-81.7254,United States,US,USA,Florida,,6507,1840014232
+Bay Harbor Islands,Bay Harbor Islands,25.8878,-80.1335,United States,US,USA,Florida,,5793,1840016005
+Surfside,Surfside,25.8787,-80.125,United States,US,USA,Florida,,5651,1840017278
+Palm Springs North,Palm Springs North,25.9351,-80.3339,United States,US,USA,Florida,,5525,1840047821
+South Highpoint,South Highpoint,27.9086,-82.7162,United States,US,USA,Florida,,5435,1840029006
+Kenneth City,Kenneth City,27.8155,-82.7162,United States,US,USA,Florida,,5121,1840017244
+South Pasadena,South Pasadena,27.7526,-82.7394,United States,US,USA,Florida,,5095,1840015979
+Boca Raton,Boca Raton,26.3752,-80.108,United States,US,USA,Florida,,99805,1840014207
+Riverview,Riverview,27.8227,-82.3023,United States,US,USA,Florida,,95338,1840014158
+Plantation,Plantation,26.126,-80.2617,United States,US,USA,Florida,,94580,1840015142
+Alafaya,Alafaya,28.5278,-81.1865,United States,US,USA,Florida,,91068,1840029102
+Town 'n' Country,Town 'n' Country,28.0108,-82.576,United States,US,USA,Florida,,87338,1840029089
+Fort Myers,Fort Myers,26.6195,-81.8303,United States,US,USA,Florida,,87103,1840014226
+Largo,Largo,27.9088,-82.7711,United States,US,USA,Florida,,84948,1840015114
+Melbourne,Melbourne,28.1085,-80.6627,United States,US,USA,Florida,,83029,1840015960
+Zephyrhills,Zephyrhills,28.2408,-82.1796,United States,US,USA,Florida,,82476,1840015968
+St. Augustine,St. Augustine,29.8977,-81.31,United States,US,USA,Florida,,82180,1840015935
+The Villages,The Villages,28.9021,-81.9888,United States,US,USA,Florida,,79372,1840014065
+Boynton Beach,Boynton Beach,26.5281,-80.0811,United States,US,USA,Florida,,78679,1840014208
+Kendall,Kendall,25.6697,-80.3556,United States,US,USA,Florida,,75312,1840014244
+Weston,Weston,26.1006,-80.4054,United States,US,USA,Florida,,71166,1840016003
+Poinciana,Poinciana,28.1217,-81.482,United States,US,USA,Florida,,69955,1840014132
+Homestead,Homestead,25.4665,-80.4472,United States,US,USA,Florida,,69523,1840015159
+Delray Beach,Delray Beach,26.455,-80.0905,United States,US,USA,Florida,,69451,1840015123
+Daytona Beach,Daytona Beach,29.1994,-81.0982,United States,US,USA,Florida,,69186,1840015068
+Jupiter,Jupiter,26.9199,-80.1128,United States,US,USA,Florida,,65791,1840017255
+Doral,Doral,25.8151,-80.3565,United States,US,USA,Florida,,65741,1840015148
+Wellington,Wellington,26.6461,-80.2699,United States,US,USA,Florida,,65398,1840018311
+Port Orange,Port Orange,29.1084,-81.0137,United States,US,USA,Florida,,64842,1840015077
+Port Charlotte,Port Charlotte,26.9918,-82.114,United States,US,USA,Florida,,62327,1840014200
+Palm Harbor,Palm Harbor,28.0847,-82.7481,United States,US,USA,Florida,,62310,1840014143
+Sebring,Sebring,27.477,-81.453,United States,US,USA,Florida,,62250,1840015986
+Sanford,Sanford,28.7893,-81.276,United States,US,USA,Florida,,61448,1840015958
+Bradenton,Bradenton,27.49,-82.5739,United States,US,USA,Florida,,59439,1840014173
+Wesley Chapel,Wesley Chapel,28.2106,-82.3238,United States,US,USA,Florida,,58208,1840014118
+Titusville,Titusville,28.5727,-80.8193,United States,US,USA,Florida,,57891,1840015962
+Palm Beach Gardens,Palm Beach Gardens,26.8466,-80.1679,United States,US,USA,Florida,,57704,1840015125
+St. Cloud,St. Cloud,28.2294,-81.2829,United States,US,USA,Florida,,54579,1840015971
+Pinellas Park,Pinellas Park,27.8589,-82.7078,United States,US,USA,Florida,,53637,1840015112
+Apopka,Apopka,28.7014,-81.5304,United States,US,USA,Florida,,53447,1840014093
+Coral Gables,Coral Gables,25.7037,-80.2715,United States,US,USA,Florida,,49700,1840015147
+Ocoee,Ocoee,28.5787,-81.5338,United States,US,USA,Florida,,48263,1840015098
+Fort Pierce,Fort Pierce,27.4256,-80.3431,United States,US,USA,Florida,,46103,1840014178
+Winter Garden,Winter Garden,28.5421,-81.5966,United States,US,USA,Florida,,46051,1840015965
+Altamonte Springs,Altamonte Springs,28.6615,-81.3953,United States,US,USA,Florida,,44143,1840014072
+Ormond Beach,Ormond Beach,29.296,-81.1003,United States,US,USA,Florida,,43759,1840015076
+Cutler Bay,Cutler Bay,25.5765,-80.3356,United States,US,USA,Florida,,43718,1840017276
+North Fort Myers,North Fort Myers,26.7243,-81.8491,United States,US,USA,Florida,,42770,1840014222
+Oviedo,Oviedo,28.658,-81.1872,United States,US,USA,Florida,,41860,1840015089
+Royal Palm Beach,Royal Palm Beach,26.7038,-80.2241,United States,US,USA,Florida,,40396,1840018309
+The Acreage,The Acreage,26.7741,-80.2779,United States,US,USA,Florida,,40177,1840026061
+Plant City,Plant City,28.014,-82.1201,United States,US,USA,Florida,,39744,1840015115
+Crestview,Crestview,30.748,-86.5784,United States,US,USA,Florida,,39072,1840015007
+Horizon West,Horizon West,28.4417,-81.6145,United States,US,USA,Florida,,39065,1840038926
+Clermont,Clermont,28.5402,-81.7259,United States,US,USA,Florida,,38654,1840015080
+Land O' Lakes,Land O' Lakes,28.2075,-82.4476,United States,US,USA,Florida,,38410,1840014120
+Valrico,Valrico,27.9193,-82.2293,United States,US,USA,Florida,,37980,1840028790
+Navarre,Navarre,30.4174,-86.8907,United States,US,USA,Florida,,37362,1840027017
+Winter Springs,Winter Springs,28.6889,-81.2704,United States,US,USA,Florida,,37312,1840015959
+Dunedin,Dunedin,28.0329,-82.7863,United States,US,USA,Florida,,36537,1840014144
+Merritt Island,Merritt Island,28.3146,-80.6713,United States,US,USA,Florida,,36532,1840014076
+Cooper City,Cooper City,26.0463,-80.2862,United States,US,USA,Florida,,35800,1840015133
+Meadow Woods,Meadow Woods,28.3698,-81.3467,United States,US,USA,Florida,,35726,1840029057
+Carrollwood,Carrollwood,28.0577,-82.5149,United States,US,USA,Florida,,35686,1840029026
+Riviera Beach,Riviera Beach,26.7812,-80.0742,United States,US,USA,Florida,,35463,1840015126
+DeLand,DeLand,29.0224,-81.2873,United States,US,USA,Florida,,34851,1840015071
+Parkland,Parkland,26.3218,-80.2533,United States,US,USA,Florida,,34170,1840015140
+Estero,Estero,26.4277,-81.7951,United States,US,USA,Florida,,33871,1840013129
+Ferry Pass,Ferry Pass,30.5203,-87.1903,United States,US,USA,Florida,,32376,1840013909
+Princeton,Princeton,25.5396,-80.3971,United States,US,USA,Florida,,32299,1840014248
+Dania Beach,Dania Beach,26.0594,-80.1637,United States,US,USA,Florida,,32271,1840015135
+East Lake,East Lake,28.1205,-82.6868,United States,US,USA,Florida,,32169,1840028980
+Key West,Key West,24.5637,-81.7768,United States,US,USA,Florida,,31401,1840015161
+Fruit Cove,Fruit Cove,30.0972,-81.6176,United States,US,USA,Florida,,31314,1840013970
+Winter Park,Winter Park,28.5987,-81.3438,United States,US,USA,Florida,,30825,1840015966
+Lake Magdalene,Lake Magdalene,28.0875,-82.4791,United States,US,USA,Florida,,30805,1840029049
+Lakeside,Lakeside,30.1356,-81.7674,United States,US,USA,Florida,,30458,1840029051
+East Lake-Orient Park,East Lake-Orient Park,27.9971,-82.3653,United States,US,USA,Florida,,29346,1840073826
+Fernandina Beach,Fernandina Beach,30.6579,-81.4504,United States,US,USA,Florida,,28931,1840013929
+Casselberry,Casselberry,28.6625,-81.3218,United States,US,USA,Florida,,28757,1840015088
+Fleming Island,Fleming Island,30.0988,-81.7124,United States,US,USA,Florida,,28676,1840038864
+Belle Glade,Belle Glade,26.692,-80.6672,United States,US,USA,Florida,,28665,1840014206
+Oakleaf Plantation,Oakleaf Plantation,30.1689,-81.8337,United States,US,USA,Florida,,28237,1840039045
+Rockledge,Rockledge,28.3201,-80.732,United States,US,USA,Florida,,28227,1840015095
+New Smyrna Beach,New Smyrna Beach,29.0249,-80.9651,United States,US,USA,Florida,,27843,1840015073
+Bayonet Point,Bayonet Point,28.3254,-82.6834,United States,US,USA,Florida,,27418,1840014117
+Citrus Park,Citrus Park,28.073,-82.5628,United States,US,USA,Florida,,27026,1840014152
+Temple Terrace,Temple Terrace,28.0437,-82.3774,United States,US,USA,Florida,,26639,1840015983
+Immokalee,Immokalee,26.4253,-81.4251,United States,US,USA,Florida,,26597,1840014230
+Lake City,Lake City,30.1901,-82.647,United States,US,USA,Florida,,26271,1840015029
+Okeechobee,Okeechobee,27.2414,-80.8298,United States,US,USA,Florida,,26256,1840015118
+Sebastian,Sebastian,27.7882,-80.4813,United States,US,USA,Florida,,26118,1840015984
+Haines City,Haines City,28.11,-81.6157,United States,US,USA,Florida,,26009,1840014136
+Tarpon Springs,Tarpon Springs,28.1493,-82.7623,United States,US,USA,Florida,,25577,1840015980
+Ruskin,Ruskin,27.7065,-82.4209,United States,US,USA,Florida,,25530,1840014159
+Keystone,Keystone,28.1312,-82.5999,United States,US,USA,Florida,,25493,1840028914
+Palm City,Palm City,27.1736,-80.2861,United States,US,USA,Florida,,24840,1840014192
+Palmetto Bay,Palmetto Bay,25.622,-80.3221,United States,US,USA,Florida,,24523,1840018335
+Bloomingdale,Bloomingdale,27.8784,-82.2624,United States,US,USA,Florida,,24446,1840014150
+Sun City Center,Sun City Center,27.7149,-82.3569,United States,US,USA,Florida,,24286,1840001841
+West Melbourne,West Melbourne,28.0693,-80.6734,United States,US,USA,Florida,,24259,1840015963
+Venice,Venice,27.1163,-82.4135,United States,US,USA,Florida,,23985,1840015989
+Wright,Wright,30.4445,-86.6419,United States,US,USA,Florida,,23965,1840013921
+Westchase,Westchase,28.0597,-82.611,United States,US,USA,Florida,,23923,1840029017
+Edgewater,Edgewater,28.9594,-80.9407,United States,US,USA,Florida,,23918,1840014043
+Palm River-Clair Mel,Palm River-Clair Mel,27.9239,-82.3791,United States,US,USA,Florida,,23844,1840073873
+Palatka,Palatka,29.6493,-81.6705,United States,US,USA,Florida,,23738,1840015062
+Jacksonville Beach,Jacksonville Beach,30.2782,-81.4045,United States,US,USA,Florida,,23628,1840015032
+Wekiwa Springs,Wekiwa Springs,28.6984,-81.4251,United States,US,USA,Florida,,23512,1840029016
+Northdale,Northdale,28.1058,-82.5263,United States,US,USA,Florida,,23510,1840029107
+Vero Beach South,Vero Beach South,27.6164,-80.413,United States,US,USA,Florida,,23333,1840073853
+Pace,Pace,30.6187,-87.1667,United States,US,USA,Florida,,22860,1840013919
+Fort Walton Beach,Fort Walton Beach,30.4249,-86.6194,United States,US,USA,Florida,,22521,1840013923
+Florida Ridge,Florida Ridge,27.5805,-80.3848,United States,US,USA,Florida,,22372,1840029035
+Brent,Brent,30.4729,-87.2496,United States,US,USA,Florida,,22337,1840013913
+Lutz,Lutz,28.1396,-82.4467,United States,US,USA,Florida,,22235,1840014156
+Ensley,Ensley,30.5261,-87.2735,United States,US,USA,Florida,,22194,1840013104
+Naples,Naples,26.1504,-81.7936,United States,US,USA,Florida,,22088,1840015131
+Fish Hawk,Fish Hawk,27.8511,-82.2164,United States,US,USA,Florida,,21929,1840028982
+Bellview,Bellview,30.462,-87.312,United States,US,USA,Florida,,21515,1840013912
+DeBary,DeBary,28.8815,-81.324,United States,US,USA,Florida,,21305,1840015070
+Eustis,Eustis,28.856,-81.6781,United States,US,USA,Florida,,21303,1840014054
+Palm Valley,Palm Valley,30.2011,-81.3949,United States,US,USA,Florida,,21292,1840013971
+West Pensacola,West Pensacola,30.4263,-87.2679,United States,US,USA,Florida,,21056,1840013915
+Apollo Beach,Apollo Beach,27.7618,-82.4002,United States,US,USA,Florida,,20947,1840014149
+Hunters Creek,Hunters Creek,28.3611,-81.4357,United States,US,USA,Florida,,20817,1840028986
+Holiday,Holiday,28.1864,-82.7429,United States,US,USA,Florida,,20816,1840014114
+Lynn Haven,Lynn Haven,30.2337,-85.637,United States,US,USA,Florida,,20525,1840015922
+Punta Gorda,Punta Gorda,26.8933,-82.0516,United States,US,USA,Florida,,20369,1840015122
+Bartow,Bartow,27.8868,-81.8213,United States,US,USA,Florida,,20147,1840014128
+Lake Butler,Lake Butler,28.4868,-81.5453,United States,US,USA,Florida,,19499,1840143771
+Pinecrest,Pinecrest,25.665,-80.3042,United States,US,USA,Florida,,19155,1840018336
+Arcadia,Arcadia,27.2213,-81.8587,United States,US,USA,Florida,,19038,1840014187
+Seminole,Seminole,27.8435,-82.7839,United States,US,USA,Florida,,18838,1840015978
+Cocoa,Cocoa,28.382,-80.7674,United States,US,USA,Florida,,18603,1840015092
+Gibsonton,Gibsonton,27.826,-82.3761,United States,US,USA,Florida,,18515,1840014148
+World Golf Village,World Golf Village,29.9653,-81.4898,United States,US,USA,Florida,,18327,1840039162
+Lake Placid,Lake Placid,27.2977,-81.3715,United States,US,USA,Florida,,18227,1840017248
+Safety Harbor,Safety Harbor,28.008,-82.6964,United States,US,USA,Florida,,18016,1840015975
+San Carlos Park,San Carlos Park,26.4765,-81.8193,United States,US,USA,Florida,,17961,1840014218
+Marco Island,Marco Island,25.933,-81.6993,United States,US,USA,Florida,,17947,1840036141
+Midway,Midway,30.4138,-87.0261,United States,US,USA,Florida,,17760,1840143881
+Tavares,Tavares,28.7921,-81.7353,United States,US,USA,Florida,,17749,1840015953
+Maitland,Maitland,28.6295,-81.3717,United States,US,USA,Florida,,17652,1840015964
+Upper Grand Lagoon,Upper Grand Lagoon,30.169,-85.7407,United States,US,USA,Florida,,17550,1840029090
+Vero Beach,Vero Beach,27.6463,-80.393,United States,US,USA,Florida,,17503,1840015985
+Lake Mary,Lake Mary,28.7592,-81.3359,United States,US,USA,Florida,,17479,1840015090
+Glenvar Heights,Glenvar Heights,25.709,-80.3156,United States,US,USA,Florida,,17065,1840014238
+Myrtle Grove,Myrtle Grove,30.4158,-87.3028,United States,US,USA,Florida,,16875,1840013917
+Lake Wales,Lake Wales,27.9195,-81.5961,United States,US,USA,Florida,,16759,1840015107
+New Port Richey,New Port Richey,28.2468,-82.717,United States,US,USA,Florida,,16737,1840015102
+Auburndale,Auburndale,28.0962,-81.8011,United States,US,USA,Florida,,16650,1840014127
+Groveland,Groveland,28.6021,-81.8204,United States,US,USA,Florida,,16423,1840014056
+Stuart,Stuart,27.1958,-80.2438,United States,US,USA,Florida,,16237,1840015990
+Lady Lake,Lady Lake,28.9241,-81.9299,United States,US,USA,Florida,,16020,1840017229
+Niceville,Niceville,30.5291,-86.4754,United States,US,USA,Florida,,15972,1840015009
+Opa-locka,Opa-locka,25.8997,-80.2551,United States,US,USA,Florida,,15887,1840015156
+Sunset,Sunset,25.7061,-80.353,United States,US,USA,Florida,,15871,1840029084
+Sarasota Springs,Sarasota Springs,27.3092,-82.4788,United States,US,USA,Florida,,15854,1840029072
+Three Lakes,Three Lakes,25.6415,-80.4,United States,US,USA,Florida,,15614,1840029010
+Longwood,Longwood,28.7014,-81.3487,United States,US,USA,Florida,,15561,1840015957
+Southchase,Southchase,28.3793,-81.3903,United States,US,USA,Florida,,15314,1840029005
+Englewood,Englewood,26.9603,-82.3535,United States,US,USA,Florida,,15095,1840013127
+Oldsmar,Oldsmar,28.0507,-82.6698,United States,US,USA,Florida,,15061,1840015111
+West Lealman,West Lealman,27.8191,-82.7385,United States,US,USA,Florida,,14891,1840039134
+Bellair-Meadowbrook Terrace,Bellair-Meadowbrook Terrace,30.1796,-81.7375,United States,US,USA,Florida,,14800,1840073845
+Nocatee,Nocatee,30.0918,-81.4097,United States,US,USA,Florida,,14747,1840028805
+Azalea Park,Azalea Park,28.5473,-81.2956,United States,US,USA,Florida,,14700,1840014082
+Gonzalez,Gonzalez,30.5822,-87.2906,United States,US,USA,Florida,,14598,1840013910
+Forest City,Forest City,28.6619,-81.4443,United States,US,USA,Florida,,14592,1840028825
+Mount Dora,Mount Dora,28.8143,-81.6344,United States,US,USA,Florida,,14516,1840015082
+Thonotosassa,Thonotosassa,28.0465,-82.291,United States,US,USA,Florida,,14460,1840014154
+Lockhart,Lockhart,28.6271,-81.4354,United States,US,USA,Florida,,14430,1840014095
+Clewiston,Clewiston,26.7529,-80.9399,United States,US,USA,Florida,,14383,1840015128
+Warrington,Warrington,30.3821,-87.2944,United States,US,USA,Florida,,14351,1840013914
+Destin,Destin,30.395,-86.4701,United States,US,USA,Florida,,14247,1840015008
+Iona,Iona,26.516,-81.9601,United States,US,USA,Florida,,14118,1840028702
+Middleburg,Middleburg,30.0502,-81.9011,United States,US,USA,Florida,,14111,1840013998
+Fruitville,Fruitville,27.3328,-82.4616,United States,US,USA,Florida,,14068,1840014179
+Lakewood Park,Lakewood Park,27.539,-80.3865,United States,US,USA,Florida,,14064,1840014177
+Callaway,Callaway,30.1348,-85.5568,United States,US,USA,Florida,,14060,1840013958
+Hobe Sound,Hobe Sound,27.0729,-80.1425,United States,US,USA,Florida,,14003,1840014188
+Wauchula,Wauchula,27.5469,-81.8101,United States,US,USA,Florida,,13992,1840015987
+Miami Springs,Miami Springs,25.8195,-80.2894,United States,US,USA,Florida,,13917,1840015152
+South Venice,South Venice,27.0434,-82.4152,United States,US,USA,Florida,,13907,1840014180
+Atlantic Beach,Atlantic Beach,30.3371,-81.4128,United States,US,USA,Florida,,13872,1840013956
+Palmetto,Palmetto,27.5251,-82.575,United States,US,USA,Florida,,13748,1840015116
+East Milton,East Milton,30.6175,-86.9636,United States,US,USA,Florida,,13697,1840025112
+LaBelle,LaBelle,26.7219,-81.4506,United States,US,USA,Florida,,13563,1840015129
+Conway,Conway,28.4968,-81.3316,United States,US,USA,Florida,,13528,1840013121
+Jensen Beach,Jensen Beach,27.2438,-80.2423,United States,US,USA,Florida,,13479,1840014190
+Homosassa Springs,Homosassa Springs,28.8118,-82.5392,United States,US,USA,Florida,,13478,1840014060
+North Palm Beach,North Palm Beach,26.8216,-80.0576,United States,US,USA,Florida,,13127,1840018307
+South Daytona,South Daytona,29.1656,-81.0056,United States,US,USA,Florida,,13080,1840015950
+Villas,Villas,26.5504,-81.8679,United States,US,USA,Florida,,13072,1840029092
+Cypress Lake,Cypress Lake,26.5391,-81.9,United States,US,USA,Florida,,12978,1840029032
+Gladeview,Gladeview,25.8395,-80.2368,United States,US,USA,Florida,,12977,1840029038
+Yulee,Yulee,30.635,-81.5678,United States,US,USA,Florida,,12754,1840013928
+Jupiter Farms,Jupiter Farms,26.9224,-80.2187,United States,US,USA,Florida,,12750,1840042432
+Elfers,Elfers,28.214,-82.723,United States,US,USA,Florida,,12600,1840013122
+Minneola,Minneola,28.6067,-81.7322,United States,US,USA,Florida,,12595,1840015081
+Panama City Beach,Panama City Beach,30.2369,-85.8775,United States,US,USA,Florida,,12583,1840015035
+Goldenrod,Goldenrod,28.6114,-81.2916,United States,US,USA,Florida,,12384,1840014080
+Holly Hill,Holly Hill,29.2443,-81.0463,United States,US,USA,Florida,,12357,1840015078
+Gulfport,Gulfport,27.7463,-82.71,United States,US,USA,Florida,,12342,1840014145
+Orange City,Orange City,28.9347,-81.2881,United States,US,USA,Florida,,12335,1840015075
+Lakeland Highlands,Lakeland Highlands,27.9572,-81.9496,United States,US,USA,Florida,,12332,1840029047
+Shady Hills,Shady Hills,28.4042,-82.5467,United States,US,USA,Florida,,12252,1840029004
+Union Park,Union Park,28.5645,-81.2354,United States,US,USA,Florida,,12052,1840014090
+Goulds,Goulds,25.5614,-80.388,United States,US,USA,Florida,,11984,1840014239
+Macclenny,Macclenny,30.281,-82.1252,United States,US,USA,Florida,,11958,1840015921
+Hudson,Hudson,28.3594,-82.6888,United States,US,USA,Florida,,11936,1840014115
+Viera East,Viera East,28.261,-80.715,United States,US,USA,Florida,,11796,1840039118
+Florida City,Florida City,25.4418,-80.4685,United States,US,USA,Florida,,11771,1840014250
+Cocoa Beach,Cocoa Beach,28.3326,-80.6274,United States,US,USA,Florida,,11705,1840015093
+Port St. John,Port St. John,28.4771,-80.7874,United States,US,USA,Florida,,11684,1840014079
+Trinity,Trinity,28.1809,-82.6581,United States,US,USA,Florida,,11493,1840029012
+Port Salerno,Port Salerno,27.1461,-80.1895,United States,US,USA,Florida,,11486,1840014193
+Viera West,Viera West,28.243,-80.7368,United States,US,USA,Florida,,11369,1840039133
+Lighthouse Point,Lighthouse Point,26.2785,-80.0891,United States,US,USA,Florida,,11270,1840015998
+Westview,Westview,25.8826,-80.2415,United States,US,USA,Florida,,11247,1840029098
+Fuller Heights,Fuller Heights,27.9226,-81.9978,United States,US,USA,Florida,,11143,1840025156
+Mango,Mango,27.9915,-82.307,United States,US,USA,Florida,,11137,1840014157
+Satellite Beach,Satellite Beach,28.1782,-80.6019,United States,US,USA,Florida,,11130,1840015961
+Gulf Gate Estates,Gulf Gate Estates,27.2587,-82.5065,United States,US,USA,Florida,,11118,1840029040
+Cheval,Cheval,28.1459,-82.5185,United States,US,USA,Florida,,10808,1840028977
+Fruitland Park,Fruitland Park,28.86,-81.919,United States,US,USA,Florida,,10730,1840014055
+Gateway,Gateway,26.5804,-81.7453,United States,US,USA,Florida,,10702,1840014213
+Avon Park,Avon Park,27.5908,-81.5081,United States,US,USA,Florida,,10689,1840014166
+Highland City,Highland City,27.9633,-81.8781,United States,US,USA,Florida,,10602,1840014122
+Pasadena Hills,Pasadena Hills,28.2881,-82.238,United States,US,USA,Florida,,10530,1840039051
+Milton,Milton,30.6286,-87.0522,United States,US,USA,Florida,,10523,1840015006
+Doctor Phillips,Doctor Phillips,28.4476,-81.4922,United States,US,USA,Florida,,10488,1840013119
+Gifford,Gifford,27.6747,-80.4102,United States,US,USA,Florida,,10479,1840014160
+Pine Castle,Pine Castle,28.4651,-81.374,United States,US,USA,Florida,,10474,1840014097
+Cape Canaveral,Cape Canaveral,28.3933,-80.605,United States,US,USA,Florida,,10470,1840015091
+Fairview Shores,Fairview Shores,28.602,-81.3948,United States,US,USA,Florida,,10467,1840013120
+New Port Richey East,New Port Richey East,28.2605,-82.693,United States,US,USA,Florida,,10398,1840073871
+Miami Shores,Miami Shores,25.867,-80.1779,United States,US,USA,Florida,,10365,1840018334
+Pine Ridge,Pine Ridge,28.933,-82.4761,United States,US,USA,Florida,,10278,1840028997
+Medulla,Medulla,27.957,-81.9866,United States,US,USA,Florida,,10275,1840014131
+Cypress Gardens,Cypress Gardens,28.0036,-81.6857,United States,US,USA,Florida,,10252,1840028660
+Pebble Creek,Pebble Creek,28.1583,-82.3411,United States,US,USA,Florida,,10249,1840028995
+Asbury Lake,Asbury Lake,30.0472,-81.7855,United States,US,USA,Florida,,10160,1840029019
+Progress Village,Progress Village,27.8832,-82.3593,United States,US,USA,Florida,,10020,1840028917
+Bee Ridge,Bee Ridge,27.2855,-82.4731,United States,US,USA,Florida,,9958,1840028632
+Key Largo,Key Largo,25.1224,-80.412,United States,US,USA,Florida,,9952,1840014253
+Celebration,Celebration,28.3102,-81.551,United States,US,USA,Florida,,9923,1840014138
+Alachua,Alachua,29.7778,-82.4831,United States,US,USA,Florida,,9899,1840014020
+Memphis,Memphis,27.5435,-82.5607,United States,US,USA,Florida,,9647,1840014172
+Bithlo,Bithlo,28.5644,-81.1074,United States,US,USA,Florida,,9627,1840014083
+St. Pete Beach,St. Pete Beach,27.7235,-82.7387,United States,US,USA,Florida,,9587,1840015976
+Laurel,Laurel,27.1446,-82.4618,United States,US,USA,Florida,,9518,1840014184
+Bardmoor,Bardmoor,27.8575,-82.7534,United States,US,USA,Florida,,9373,1840038841
+Beverly Hills,Beverly Hills,28.9175,-82.4541,United States,US,USA,Florida,,9360,1840014061
+St. Augustine Shores,St. Augustine Shores,29.8039,-81.3086,United States,US,USA,Florida,,9340,1840013972
+Rotonda,Rotonda,26.8845,-82.2791,United States,US,USA,Florida,,9325,1840014201
+Marathon,Marathon,24.7262,-81.0376,United States,US,USA,Florida,,9271,1840016010
+Hernando,Hernando,28.9451,-82.3781,United States,US,USA,Florida,,9261,1840014058
+Sugarmill Woods,Sugarmill Woods,28.7321,-82.4986,United States,US,USA,Florida,,9082,1840014063
+Micco,Micco,27.8683,-80.51,United States,US,USA,Florida,,9047,1840014077
+Silver Springs Shores,Silver Springs Shores,29.1031,-82.005,United States,US,USA,Florida,,9031,1840028949
+Orange Park,Orange Park,30.1706,-81.7041,United States,US,USA,Florida,,8824,1840017206
+Palm Beach,Palm Beach,26.6932,-80.0406,United States,US,USA,Florida,,8816,1840017267
+North Sarasota,North Sarasota,27.3711,-82.5177,United States,US,USA,Florida,,8806,1840029061
+Citrus Springs,Citrus Springs,28.9931,-82.4595,United States,US,USA,Florida,,8779,1840014062
+Fern Park,Fern Park,28.6484,-81.3458,United States,US,USA,Florida,,8694,1840014068
+Springfield,Springfield,30.1713,-85.6089,United States,US,USA,Florida,,8577,1840015923
+Green Cove Springs,Green Cove Springs,29.9904,-81.6807,United States,US,USA,Florida,,8577,1840013999
+Brooksville,Brooksville,28.5404,-82.3903,United States,US,USA,Florida,,8564,1840014112
+Indian Harbour Beach,Indian Harbour Beach,28.153,-80.5976,United States,US,USA,Florida,,8557,1840015096
+Lake Park,Lake Park,26.7998,-80.068,United States,US,USA,Florida,,8556,1840017258
+Seffner,Seffner,27.9981,-82.2735,United States,US,USA,Florida,,8362,1840014153
+Wimauma,Wimauma,27.6964,-82.3034,United States,US,USA,Florida,,8358,1840014155
+Miramar Beach,Miramar Beach,30.3854,-86.3443,United States,US,USA,Florida,,8356,1840013925
+Frostproof,Frostproof,27.7493,-81.5252,United States,US,USA,Florida,,8312,1840014135
+West Vero Corridor,West Vero Corridor,27.6378,-80.4855,United States,US,USA,Florida,,8292,1840073271
+Southeast Arcadia,Southeast Arcadia,27.1862,-81.8521,United States,US,USA,Florida,,8272,1840035778
+North Weeki Wachee,North Weeki Wachee,28.5591,-82.5537,United States,US,USA,Florida,,8238,1840073872
+Wedgefield,Wedgefield,28.4847,-81.0808,United States,US,USA,Florida,,8180,1840014091
+Venice Gardens,Venice Gardens,27.0694,-82.4054,United States,US,USA,Florida,,8171,1840014182
+Odessa,Odessa,28.182,-82.553,United States,US,USA,Florida,,8036,1840014121
+Pahokee,Pahokee,26.8202,-80.662,United States,US,USA,Florida,,8025,1840015124
+Southwest Ranches,Southwest Ranches,26.0476,-80.375,United States,US,USA,Florida,,7957,1840018328
+Quincy,Quincy,30.5659,-84.5857,United States,US,USA,Florida,,7957,1840015022
+DeFuniak Springs,DeFuniak Springs,30.7123,-86.1208,United States,US,USA,Florida,,7823,1840015011
+Williamsburg,Williamsburg,28.4015,-81.4461,United States,US,USA,Florida,,7823,1840029100
+Southgate,Southgate,27.3082,-82.5096,United States,US,USA,Florida,,7817,1840029078
+McGregor,McGregor,26.5611,-81.9134,United States,US,USA,Florida,,7760,1840029055
+Citrus Hills,Citrus Hills,28.887,-82.4312,United States,US,USA,Florida,,7739,1840028978
+Indiantown,Indiantown,27.0375,-80.4913,United States,US,USA,Florida,,7669,1840014189
+Inwood,Inwood,28.0391,-81.7677,United States,US,USA,Florida,,7575,1840014123
+Keystone Heights,Keystone Heights,29.7812,-82.034,United States,US,USA,Florida,,7449,1840015049
+Inverness,Inverness,28.8397,-82.3437,United States,US,USA,Florida,,7414,1840015085
+Sanibel,Sanibel,26.4534,-82.1023,United States,US,USA,Florida,,7401,1840015996
+South Apopka,South Apopka,28.6569,-81.5057,United States,US,USA,Florida,,7381,1840028779
+Dade City,Dade City,28.3568,-82.1942,United States,US,USA,Florida,,7338,1840015101
+Longboat Key,Longboat Key,27.3926,-82.6341,United States,US,USA,Florida,,7296,1840017250
+Wildwood,Wildwood,28.8014,-82.0058,United States,US,USA,Florida,,7276,1840015956
+Ormond-by-the-Sea,Ormond-by-the-Sea,29.3436,-81.0677,United States,US,USA,Florida,,7268,1840014042
+Neptune Beach,Neptune Beach,30.3165,-81.4118,United States,US,USA,Florida,,7259,1840015030
+Belle Isle,Belle Isle,28.4724,-81.3491,United States,US,USA,Florida,,7240,1840014101
+Willow Oak,Willow Oak,27.9216,-82.0244,United States,US,USA,Florida,,7236,1840028919
+Lake Lorraine,Lake Lorraine,30.4407,-86.5657,United States,US,USA,Florida,,7217,1840029048
+Live Oak,Live Oak,30.2956,-82.9847,United States,US,USA,Florida,,7118,1840015929
+Fort Myers Beach,Fort Myers Beach,26.4324,-81.9168,United States,US,USA,Florida,,7094,1840017269
+River Park,River Park,27.3214,-80.3307,United States,US,USA,Florida,,7071,1840028958
+St. Augustine Beach,St. Augustine Beach,29.8414,-81.2713,United States,US,USA,Florida,,7004,1840015936
+Heathrow,Heathrow,28.7753,-81.3721,United States,US,USA,Florida,,6987,1840014070
+Beacon Square,Beacon Square,28.2118,-82.7504,United States,US,USA,Florida,,6976,1840028798
+Fort Meade,Fort Meade,27.7645,-81.8058,United States,US,USA,Florida,,6932,1840014134
+Osprey,Osprey,27.1914,-82.48,United States,US,USA,Florida,,6931,1840014186
+Fort Pierce North,Fort Pierce North,27.4736,-80.3594,United States,US,USA,Florida,,6926,1840073834
+West Samoset,West Samoset,27.4702,-82.5552,United States,US,USA,Florida,,6921,1840029097
+Treasure Island,Treasure Island,27.774,-82.7663,United States,US,USA,Florida,,6921,1840015981
+Gulf Breeze,Gulf Breeze,30.3685,-87.1769,United States,US,USA,Florida,,6900,1840013920
+Perry,Perry,30.109,-83.5821,United States,US,USA,Florida,,6879,1840015046
+Lecanto,Lecanto,28.8359,-82.488,United States,US,USA,Florida,,6847,1840014064
+South Patrick Shores,South Patrick Shores,28.202,-80.6137,United States,US,USA,Florida,,6842,1840029080
+Fort Myers Shores,Fort Myers Shores,26.7135,-81.7383,United States,US,USA,Florida,,6813,1840014212
+Indian River Estates,Indian River Estates,27.3564,-80.2983,United States,US,USA,Florida,,6754,1840029044
+Pembroke Park,Pembroke Park,25.9852,-80.1777,United States,US,USA,Florida,,6749,1840017273
+Cocoa West,Cocoa West,28.3595,-80.7712,United States,US,USA,Florida,,6595,1840073847
+Inverness Highlands South,Inverness Highlands South,28.8007,-82.3371,United States,US,USA,Florida,,6441,1840073844
+Crystal Lake,Crystal Lake,28.0371,-81.9063,United States,US,USA,Florida,,6431,1840029030
+Orlovista,Orlovista,28.5441,-81.4629,United States,US,USA,Florida,,6416,1840014096
+Mims,Mims,28.6928,-80.8468,United States,US,USA,Florida,,6375,1840014078
+Kathleen,Kathleen,28.1224,-82.0387,United States,US,USA,Florida,,6358,1840014129
+Combee Settlement,Combee Settlement,28.0596,-81.9053,United States,US,USA,Florida,,6357,1840029027
+Jan Phyl Village,Jan Phyl Village,28.0201,-81.7933,United States,US,USA,Florida,,6346,1840028708
+"Islamorada, Village of Islands","Islamorada, Village of Islands",24.9408,-80.6097,United States,US,USA,Florida,,6317,1840073890
+Mascotte,Mascotte,28.611,-81.9107,United States,US,USA,Florida,,6315,1840015951
+Lely Resort,Lely Resort,26.0889,-81.7031,United States,US,USA,Florida,,6295,1840028991
+Lake Alfred,Lake Alfred,28.1041,-81.7264,United States,US,USA,Florida,,6257,1840015106
+Ocean City,Ocean City,30.4398,-86.6071,United States,US,USA,Florida,,6249,1840013922
+South Gate Ridge,South Gate Ridge,27.2856,-82.497,United States,US,USA,Florida,,6232,1840029079
+Newberry,Newberry,29.6385,-82.6057,United States,US,USA,Florida,,6231,1840015058
+High Springs,High Springs,29.808,-82.5949,United States,US,USA,Florida,,6178,1840015060
+Pelican Bay,Pelican Bay,26.2326,-81.8108,United States,US,USA,Florida,,6140,1840028996
+Tequesta,Tequesta,26.9618,-80.1011,United States,US,USA,Florida,,6138,1840018310
+Davenport,Davenport,28.1588,-81.6084,United States,US,USA,Florida,,6005,1840015104
+Marianna,Marianna,30.7943,-85.226,United States,US,USA,Florida,,5803,1840015897
+Fellsmere,Fellsmere,27.7241,-80.5975,United States,US,USA,Florida,,5800,1840014165
+Naples Park,Naples Park,26.2633,-81.8094,United States,US,USA,Florida,,5733,1840014233
+Rio Pinar,Rio Pinar,28.5271,-81.2628,United States,US,USA,Florida,,5713,1840039091
+Loughman,Loughman,28.2381,-81.5685,United States,US,USA,Florida,,5674,1840014130
+Starke,Starke,29.9474,-82.1129,United States,US,USA,Florida,,5647,1840015940
+Samsula-Spruce Creek,Samsula-Spruce Creek,29.0484,-81.0628,United States,US,USA,Florida,,5637,1840035478
+Zephyrhills South,Zephyrhills South,28.2152,-82.1886,United States,US,USA,Florida,,5637,1840073858
+Siesta Key,Siesta Key,27.2779,-82.5516,United States,US,USA,Florida,,5573,1840028968
+St. Augustine South,St. Augustine South,29.8449,-81.3156,United States,US,USA,Florida,,5431,1840029110
+Valparaiso,Valparaiso,30.4926,-86.5079,United States,US,USA,Florida,,5401,1840015903
+Floral City,Floral City,28.7065,-82.309,United States,US,USA,Florida,,5395,1840014057
+Warm Mineral Springs,Warm Mineral Springs,27.0469,-82.2702,United States,US,USA,Florida,,5390,1840014183
+Port LaBelle,Port LaBelle,26.7493,-81.3876,United States,US,USA,Florida,,5348,1840014210
+Zephyrhills West,Zephyrhills West,28.2311,-82.2052,United States,US,USA,Florida,,5287,1840035801
+South Sarasota,South Sarasota,27.2856,-82.5333,United States,US,USA,Florida,,5283,1840029081
+Hutchinson Island South,Hutchinson Island South,27.3243,-80.2425,United States,US,USA,Florida,,5204,1840073842
+South Bay,South Bay,26.677,-80.7265,United States,US,USA,Florida,,5200,1840015992
+Timber Pines,Timber Pines,28.469,-82.5999,United States,US,USA,Florida,,5198,1840029088
+Crawfordville,Crawfordville,30.1995,-84.3634,United States,US,USA,Florida,,5164,1840025125
+River Ridge,River Ridge,28.2669,-82.6257,United States,US,USA,Florida,,5157,1840039098
+Flagler Beach,Flagler Beach,29.4716,-81.1303,United States,US,USA,Florida,,5123,1840014035
+Belleview,Belleview,29.0609,-82.0565,United States,US,USA,Florida,,5101,1840014040
+Tice,Tice,26.6758,-81.8171,United States,US,USA,Florida,,5092,1840014219
+Dundee,Dundee,28.0115,-81.5995,United States,US,USA,Florida,,5044,1840017241
+Whiskey Creek,Whiskey Creek,26.5733,-81.8903,United States,US,USA,Florida,,5022,1840029099

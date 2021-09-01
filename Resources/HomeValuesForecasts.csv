@@ -1,0 +1,971 @@
+Region,RegionName,StateName,CountyName,CityName,ForecastedDate,ForecastYoYPctChange
+Msa,"Arcadia, FL",FL,,,7/31/2022,7.8
+Msa,"Clewiston, FL",FL,,,7/31/2022,7.7
+Msa,"Crestview-Fort Walton Beach-Destin, FL",FL,,,7/31/2022,13.1
+Msa,"Daytona Beach, FL",FL,,,7/31/2022,15.1
+Msa,"Fort Myers, FL",FL,,,7/31/2022,18
+Msa,"Gainesville, FL",FL,,,7/31/2022,11.3
+Msa,"Homosassa Springs, FL",FL,,,7/31/2022,13.3
+Msa,"Jacksonville, FL",FL,,,7/31/2022,14.2
+Msa,"Key West, FL",FL,,,7/31/2022,12.9
+Msa,"Lake City, FL",FL,,,7/31/2022,6
+Msa,"Lakeland, FL",FL,,,7/31/2022,15.5
+Msa,"Melbourne, FL",FL,,,7/31/2022,14.1
+Msa,"Miami-Fort Lauderdale, FL",FL,,,7/31/2022,12.9
+Msa,"Naples, FL",FL,,,7/31/2022,15.1
+Msa,"North Port-Sarasota-Bradenton, FL",FL,,,7/31/2022,17.8
+Msa,"Ocala, FL",FL,,,7/31/2022,11.5
+Msa,"Okeechobee, FL",FL,,,7/31/2022,-3
+Msa,"Orlando, FL",FL,,,7/31/2022,14.9
+Msa,"Palatka, FL",FL,,,7/31/2022,11
+Msa,"Panama City, FL",FL,,,7/31/2022,11.8
+Msa,"Pensacola, FL",FL,,,7/31/2022,13.3
+Msa,"Port St. Lucie, FL",FL,,,7/31/2022,13.6
+Msa,"Punta Gorda, FL",FL,,,7/31/2022,14.5
+Msa,"Sebring, FL",FL,,,7/31/2022,13
+Msa,"Tallahassee, FL",FL,,,7/31/2022,10.3
+Msa,"Tampa, FL",FL,,,7/31/2022,17.3
+Msa,"The Villages, FL",FL,,,7/31/2022,8.6
+Msa,"Vero Beach, FL",FL,,,7/31/2022,13.2
+Msa,"Wauchula, FL",FL,,,7/31/2022,7.2
+Zip,4956,FL,Escambia County,Pensacola,7/31/2022,5.4
+Zip,32003,FL,Clay County,Fleming Island,7/31/2022,10.4
+Zip,32008,FL,Suwannee County,Branford,7/31/2022,7.1
+Zip,32009,FL,Nassau County,Bryceville,7/31/2022,9.5
+Zip,32011,FL,Nassau County,Callahan,7/31/2022,10.1
+Zip,32024,FL,Columbia County,Lake City,7/31/2022,3.2
+Zip,32025,FL,Columbia County,Lake City,7/31/2022,3.2
+Zip,32033,FL,Saint Johns County,Elkton,7/31/2022,11.7
+Zip,32034,FL,Nassau County,Fernandina Beach,7/31/2022,9.7
+Zip,32038,FL,Columbia County,Fort White,7/31/2022,3.2
+Zip,32040,FL,Baker County,Glen Saint Mary,7/31/2022,6.1
+Zip,32043,FL,Clay County,Green Cove Springs,7/31/2022,10.7
+Zip,32044,FL,Bradford County,Hampton,7/31/2022,6.5
+Zip,32046,FL,Nassau County,Hilliard,7/31/2022,9
+Zip,32052,FL,Hamilton County,Jasper,7/31/2022,6.2
+Zip,32053,FL,Hamilton County,Jennings,7/31/2022,7.1
+Zip,32054,FL,Union County,Lake Butler,7/31/2022,6.2
+Zip,32055,FL,Columbia County,Lake City,7/31/2022,3.5
+Zip,32058,FL,Bradford County,Lawtey,7/31/2022,7.9
+Zip,32059,FL,Madison County,Lee,7/31/2022,7.1
+Zip,32060,FL,Suwannee County,Live Oak,7/31/2022,4.1
+Zip,32061,FL,Union County,Lake Butler,7/31/2022,4.1
+Zip,32062,FL,Suwannee County,Mc Alpin,7/31/2022,4.6
+Zip,32063,FL,Baker County,Macclenny,7/31/2022,6.3
+Zip,32064,FL,Suwannee County,Live Oak,7/31/2022,5.2
+Zip,32065,FL,Clay County,Orange Park,7/31/2022,10.2
+Zip,32066,FL,Lafayette County,Mayo,7/31/2022,7.5
+Zip,32068,FL,Clay County,Middleburg,7/31/2022,10.1
+Zip,32071,FL,Suwannee County,O Brien,7/31/2022,5.1
+Zip,32073,FL,Clay County,Orange Park,7/31/2022,10.1
+Zip,32080,FL,Saint Johns County,Saint Augustine,7/31/2022,11.8
+Zip,32081,FL,Saint Johns County,Ponte Vedra,7/31/2022,12.3
+Zip,32082,FL,Saint Johns County,Ponte Vedra Beach,7/31/2022,12.1
+Zip,32083,FL,Union County,Raiford,7/31/2022,7.3
+Zip,32084,FL,Saint Johns County,Saint Augustine,7/31/2022,11.3
+Zip,32086,FL,Saint Johns County,Saint Augustine,7/31/2022,11.7
+Zip,32091,FL,Bradford County,Starke,7/31/2022,7.3
+Zip,32092,FL,Saint Johns County,Saint Augustine,7/31/2022,12.1
+Zip,32094,FL,Suwannee County,Wellborn,7/31/2022,4.2
+Zip,32095,FL,Saint Johns County,Saint Augustine,7/31/2022,11.9
+Zip,32096,FL,Hamilton County,White Springs,7/31/2022,5.1
+Zip,32097,FL,Nassau County,Yulee,7/31/2022,9
+Zip,32102,FL,Lake County,Astor,7/31/2022,10.6
+Zip,32110,FL,Flagler County,Bunnell,7/31/2022,12.5
+Zip,32112,FL,Putnam County,Crescent City,7/31/2022,9.7
+Zip,32113,FL,Marion County,Citra,7/31/2022,8.5
+Zip,32114,FL,Volusia County,Daytona Beach,7/31/2022,11.5
+Zip,32117,FL,Volusia County,Holly Hill,7/31/2022,10.7
+Zip,32118,FL,Volusia County,Daytona Beach,7/31/2022,11.4
+Zip,32119,FL,Volusia County,South Daytona,7/31/2022,11.4
+Zip,32124,FL,Volusia County,Daytona Beach,7/31/2022,11.4
+Zip,32127,FL,Volusia County,Port Orange,7/31/2022,11.3
+Zip,32128,FL,Volusia County,Port Orange,7/31/2022,11.1
+Zip,32129,FL,Volusia County,Port Orange,7/31/2022,10.8
+Zip,32130,FL,Volusia County,De Leon Springs,7/31/2022,12.1
+Zip,32131,FL,Putnam County,East Palatka,7/31/2022,9.1
+Zip,32132,FL,Volusia County,Edgewater,7/31/2022,11.4
+Zip,32133,FL,Marion County,Weirsdale,7/31/2022,5.3
+Zip,32134,FL,Marion County,Fort Mc Coy,7/31/2022,8.2
+Zip,32136,FL,Flagler County,Flagler Beach,7/31/2022,11
+Zip,32137,FL,Flagler County,Palm Coast,7/31/2022,12.2
+Zip,32139,FL,Putnam County,Georgetown,7/31/2022,9.7
+Zip,32140,FL,Putnam County,Florahome,7/31/2022,7.7
+Zip,32141,FL,Volusia County,Edgewater,7/31/2022,11.7
+Zip,32145,FL,Saint Johns County,Hastings,7/31/2022,12.5
+Zip,32148,FL,Putnam County,Interlachen,7/31/2022,7.2
+Zip,32159,FL,Sumter County,The Villages,7/31/2022,8.6
+Zip,32162,FL,Sumter County,The Villages,7/31/2022,7.7
+Zip,32163,FL,Sumter County,The Villages,7/31/2022,7.9
+Zip,32164,FL,Flagler County,Palm Coast,7/31/2022,12
+Zip,32168,FL,Volusia County,New Smyrna Beach,7/31/2022,11.3
+Zip,32169,FL,Volusia County,New Smyrna Beach,7/31/2022,11.7
+Zip,32174,FL,Volusia County,Ormond Beach,7/31/2022,11.3
+Zip,32176,FL,Volusia County,Ormond Beach,7/31/2022,12.1
+Zip,32177,FL,Putnam County,Palatka,7/31/2022,8.4
+Zip,32179,FL,Marion County,Ocklawaha,7/31/2022,8
+Zip,32180,FL,Volusia County,Pierson,7/31/2022,12.1
+Zip,32181,FL,Putnam County,Pomona Park,7/31/2022,9.2
+Zip,32187,FL,Putnam County,San Mateo,7/31/2022,11.5
+Zip,32189,FL,Putnam County,Satsuma,7/31/2022,10
+Zip,32190,FL,Volusia County,Seville,7/31/2022,12.5
+Zip,32193,FL,Putnam County,Welaka,7/31/2022,8.8
+Zip,32195,FL,Marion County,Weirsdale,7/31/2022,8.9
+Zip,32202,FL,Duval County,Jacksonville,7/31/2022,9.6
+Zip,32204,FL,Duval County,Jacksonville,7/31/2022,10.4
+Zip,32205,FL,Duval County,Jacksonville,7/31/2022,9.7
+Zip,32206,FL,Duval County,Jacksonville,7/31/2022,13.7
+Zip,32207,FL,Duval County,Jacksonville,7/31/2022,10
+Zip,32208,FL,Duval County,Jacksonville,7/31/2022,8.6
+Zip,32209,FL,Duval County,Jacksonville,7/31/2022,11.5
+Zip,32210,FL,Duval County,Jacksonville,7/31/2022,9.9
+Zip,32211,FL,Duval County,Jacksonville,7/31/2022,10.3
+Zip,32216,FL,Duval County,Jacksonville,7/31/2022,10.3
+Zip,32217,FL,Duval County,Jacksonville,7/31/2022,9.8
+Zip,32218,FL,Duval County,Jacksonville,7/31/2022,10.6
+Zip,32219,FL,Duval County,Jacksonville,7/31/2022,10.4
+Zip,32220,FL,Duval County,Jacksonville,7/31/2022,10.3
+Zip,32221,FL,Duval County,Jacksonville,7/31/2022,10.2
+Zip,32222,FL,Duval County,Jacksonville,7/31/2022,10.7
+Zip,32223,FL,Duval County,Jacksonville,7/31/2022,10.8
+Zip,32224,FL,Duval County,Jacksonville,7/31/2022,10.1
+Zip,32225,FL,Duval County,Jacksonville,7/31/2022,10.4
+Zip,32226,FL,Duval County,Jacksonville,7/31/2022,10.6
+Zip,32233,FL,Duval County,Atlantic Beach,7/31/2022,10.7
+Zip,32234,FL,Duval County,Jacksonville,7/31/2022,10.5
+Zip,32244,FL,Duval County,Jacksonville,7/31/2022,10.8
+Zip,32246,FL,Duval County,Jacksonville,7/31/2022,10.2
+Zip,32250,FL,Duval County,Jacksonville Beach,7/31/2022,9.9
+Zip,32254,FL,Duval County,Jacksonville,7/31/2022,8.4
+Zip,32256,FL,Duval County,Jacksonville,7/31/2022,10.2
+Zip,32257,FL,Duval County,Jacksonville,7/31/2022,10.6
+Zip,32258,FL,Duval County,Jacksonville,7/31/2022,10.8
+Zip,32259,FL,Saint Johns County,Fruit Cove,7/31/2022,11.9
+Zip,32266,FL,Duval County,Neptune Beach,7/31/2022,10.2
+Zip,32277,FL,Duval County,Jacksonville,7/31/2022,10.9
+Zip,32301,FL,Leon County,Tallahassee,7/31/2022,7.9
+Zip,32303,FL,Leon County,Tallahassee,7/31/2022,8.4
+Zip,32304,FL,Leon County,Tallahassee,7/31/2022,7.9
+Zip,32305,FL,Leon County,Tallahassee,7/31/2022,10.1
+Zip,32308,FL,Leon County,Tallahassee,7/31/2022,8.3
+Zip,32309,FL,Leon County,Tallahassee,7/31/2022,8.5
+Zip,32310,FL,Leon County,Tallahassee,7/31/2022,9.7
+Zip,32311,FL,Leon County,Tallahassee,7/31/2022,8.6
+Zip,32312,FL,Leon County,Tallahassee,7/31/2022,8.5
+Zip,32317,FL,Leon County,Tallahassee,7/31/2022,8.2
+Zip,32320,FL,Franklin County,Apalachicola,7/31/2022,8.3
+Zip,32321,FL,Liberty County,Bristol,7/31/2022,6.7
+Zip,32322,FL,Franklin County,Carrabelle,7/31/2022,6.7
+Zip,32324,FL,Gadsden County,Chattahoochee,7/31/2022,5.3
+Zip,32327,FL,Wakulla County,Crawfordville,7/31/2022,6.1
+Zip,32328,FL,Franklin County,Eastpoint,7/31/2022,6.7
+Zip,32330,FL,Gadsden County,Quincy,7/31/2022,7.6
+Zip,32331,FL,Madison County,Greenville,7/31/2022,6.4
+Zip,32332,FL,Gadsden County,Gretna,7/31/2022,4.5
+Zip,32333,FL,Gadsden County,Havana,7/31/2022,4.1
+Zip,32334,FL,Liberty County,Hosford,7/31/2022,5
+Zip,32336,FL,Jefferson County,Lamont,7/31/2022,6.2
+Zip,32340,FL,Madison County,Madison,7/31/2022,6.7
+Zip,32343,FL,Gadsden County,Midway,7/31/2022,5.7
+Zip,32344,FL,Jefferson County,Monticello,7/31/2022,6.1
+Zip,32346,FL,Wakulla County,Panacea,7/31/2022,6.4
+Zip,32347,FL,Taylor County,Perry,7/31/2022,6.9
+Zip,32348,FL,Taylor County,Perry,7/31/2022,6.9
+Zip,32350,FL,Madison County,Pinetta,7/31/2022,9.1
+Zip,32351,FL,Gadsden County,Quincy,7/31/2022,4.3
+Zip,32352,FL,Gadsden County,Quincy,7/31/2022,5.5
+Zip,32355,FL,Wakulla County,Crawfordville,7/31/2022,6.4
+Zip,32356,FL,Taylor County,Salem,7/31/2022,5.8
+Zip,32358,FL,Wakulla County,Sopchoppy,7/31/2022,6.2
+Zip,32359,FL,Taylor County,Steinhatchee,7/31/2022,7.8
+Zip,32360,FL,Liberty County,Hosford,7/31/2022,4.9
+Zip,32401,FL,Bay County,Panama City,7/31/2022,9.4
+Zip,32404,FL,Bay County,Panama City,7/31/2022,8.5
+Zip,32405,FL,Bay County,Panama City,7/31/2022,8.5
+Zip,32407,FL,Bay County,Panama City Beach,7/31/2022,9.9
+Zip,32408,FL,Bay County,Panama City Beach,7/31/2022,9.9
+Zip,32409,FL,Bay County,Lynn Haven,7/31/2022,9.8
+Zip,32413,FL,Bay County,Panama City Beach,7/31/2022,10.8
+Zip,32420,FL,Jackson County,Alford,7/31/2022,6.6
+Zip,32421,FL,Calhoun County,Altha,7/31/2022,7.3
+Zip,32423,FL,Jackson County,Bascom,7/31/2022,4.6
+Zip,32424,FL,Calhoun County,Blountstown,7/31/2022,6.2
+Zip,32425,FL,Holmes County,Bonifay,7/31/2022,7.1
+Zip,32426,FL,Jackson County,Campbellton,7/31/2022,6.8
+Zip,32427,FL,Washington County,Caryville,7/31/2022,6.2
+Zip,32428,FL,Washington County,Chipley,7/31/2022,6.4
+Zip,32430,FL,Calhoun County,Altha,7/31/2022,6
+Zip,32431,FL,Jackson County,Cottondale,7/31/2022,6.8
+Zip,32433,FL,Walton County,Defuniak Springs,7/31/2022,11.6
+Zip,32435,FL,Walton County,Defuniak Springs,7/31/2022,11.3
+Zip,32437,FL,Washington County,Ebro,7/31/2022,7.4
+Zip,32438,FL,Bay County,Fountain,7/31/2022,10.5
+Zip,32439,FL,Walton County,Freeport,7/31/2022,12.7
+Zip,32440,FL,Jackson County,Graceville,7/31/2022,6.7
+Zip,32442,FL,Jackson County,Grand Ridge,7/31/2022,5.6
+Zip,32443,FL,Jackson County,Greenwood,7/31/2022,6.4
+Zip,32444,FL,Bay County,Lynn Haven,7/31/2022,8.2
+Zip,32445,FL,Jackson County,Malone,7/31/2022,5.2
+Zip,32446,FL,Jackson County,Marianna,7/31/2022,6.5
+Zip,32448,FL,Jackson County,Marianna,7/31/2022,7.1
+Zip,32449,FL,Gulf County,Wewahitchka,7/31/2022,4.8
+Zip,32455,FL,Walton County,Ponce de Leon,7/31/2022,9.9
+Zip,32456,FL,Gulf County,Port Saint Joe,7/31/2022,8.6
+Zip,32459,FL,Walton County,Santa Rosa Beach,7/31/2022,14.4
+Zip,32460,FL,Jackson County,Sneads,7/31/2022,5.9
+Zip,32461,FL,Bay County,Panama City Beach,7/31/2022,14.6
+Zip,32462,FL,Washington County,Vernon,7/31/2022,6.4
+Zip,32463,FL,Washington County,Chipley,7/31/2022,6
+Zip,32464,FL,Holmes County,Westville,7/31/2022,8.4
+Zip,32465,FL,Gulf County,Wewahitchka,7/31/2022,7.2
+Zip,32466,FL,Bay County,Youngstown,7/31/2022,10.4
+Zip,32501,FL,Escambia County,Pensacola,7/31/2022,9.1
+Zip,32502,FL,Escambia County,Pensacola,7/31/2022,8.3
+Zip,32503,FL,Escambia County,Pensacola,7/31/2022,9.9
+Zip,32504,FL,Escambia County,Pensacola,7/31/2022,9.4
+Zip,32505,FL,Escambia County,Pensacola,7/31/2022,12.9
+Zip,32506,FL,Escambia County,Pensacola,7/31/2022,11.2
+Zip,32507,FL,Escambia County,Pensacola,7/31/2022,9.8
+Zip,32514,FL,Escambia County,Pensacola,7/31/2022,9.8
+Zip,32526,FL,Escambia County,Pensacola,7/31/2022,10.9
+Zip,32530,FL,Santa Rosa County,Milton,7/31/2022,10.5
+Zip,32531,FL,Okaloosa County,Baker,7/31/2022,8.7
+Zip,32533,FL,Escambia County,Cantonment,7/31/2022,10.4
+Zip,32534,FL,Escambia County,Pensacola,7/31/2022,10.7
+Zip,32535,FL,Escambia County,Century,7/31/2022,4.6
+Zip,32536,FL,Okaloosa County,Crestview,7/31/2022,9.5
+Zip,32539,FL,Okaloosa County,Crestview,7/31/2022,9.9
+Zip,32541,FL,Okaloosa County,Destin,7/31/2022,9.7
+Zip,32547,FL,Okaloosa County,Fort Walton Beach,7/31/2022,9.8
+Zip,32548,FL,Okaloosa County,Fort Walton Beach,7/31/2022,9.9
+Zip,32550,FL,Walton County,Miramar Beach,7/31/2022,13.5
+Zip,32561,FL,Santa Rosa County,Gulf Breeze,7/31/2022,10.3
+Zip,32563,FL,Santa Rosa County,Gulf Breeze,7/31/2022,10
+Zip,32564,FL,Okaloosa County,Holt,7/31/2022,8.6
+Zip,32565,FL,Santa Rosa County,Jay,7/31/2022,9.7
+Zip,32566,FL,Santa Rosa County,Navarre,7/31/2022,10.1
+Zip,32567,FL,Okaloosa County,Laurel Hill,7/31/2022,13.4
+Zip,32568,FL,Escambia County,Mc David,7/31/2022,7.4
+Zip,32569,FL,Okaloosa County,Mary Esther,7/31/2022,9.8
+Zip,32570,FL,Santa Rosa County,Milton,7/31/2022,10
+Zip,32571,FL,Santa Rosa County,Pace,7/31/2022,10.1
+Zip,32577,FL,Escambia County,Molino,7/31/2022,9
+Zip,32578,FL,Okaloosa County,Niceville,7/31/2022,9.2
+Zip,32579,FL,Okaloosa County,Shalimar,7/31/2022,9.3
+Zip,32580,FL,Okaloosa County,Valparaiso,7/31/2022,9.8
+Zip,32583,FL,Santa Rosa County,Milton,7/31/2022,10.2
+Zip,32601,FL,Alachua County,Gainesville,7/31/2022,8.4
+Zip,32603,FL,Alachua County,Gainesville,7/31/2022,7
+Zip,32605,FL,Alachua County,Gainesville,7/31/2022,9.1
+Zip,32606,FL,Alachua County,Gainesville,7/31/2022,9.4
+Zip,32607,FL,Alachua County,Gainesville,7/31/2022,8.7
+Zip,32608,FL,Alachua County,Gainesville,7/31/2022,9
+Zip,32609,FL,Alachua County,Gainesville,7/31/2022,9.2
+Zip,32615,FL,Alachua County,Alachua,7/31/2022,9.7
+Zip,32617,FL,Marion County,Anthony,7/31/2022,8.2
+Zip,32618,FL,Alachua County,Archer,7/31/2022,10.2
+Zip,32619,FL,Gilchrist County,Bell,7/31/2022,5.4
+Zip,32621,FL,Levy County,Bronson,7/31/2022,6.3
+Zip,32622,FL,Bradford County,Brooker,7/31/2022,7.6
+Zip,32625,FL,Levy County,Cedar Key,7/31/2022,6.2
+Zip,32626,FL,Levy County,Manattee Road,7/31/2022,5.9
+Zip,32628,FL,Gilchrist County,Trenton,7/31/2022,6.4
+Zip,32631,FL,Alachua County,Earleton,7/31/2022,7.5
+Zip,32640,FL,Putnam County,Hawthorne,7/31/2022,9.8
+Zip,32641,FL,Alachua County,Gainesville,7/31/2022,10.2
+Zip,32643,FL,Alachua County,High Springs,7/31/2022,9.2
+Zip,32648,FL,Dixie County,Horseshoe Beach,7/31/2022,5.9
+Zip,32653,FL,Alachua County,Gainesville,7/31/2022,9.8
+Zip,32656,FL,Clay County,Keystone Heights,7/31/2022,9.3
+Zip,32664,FL,Alachua County,Micanopy,7/31/2022,8.4
+Zip,32666,FL,Putnam County,Melrose,7/31/2022,7.9
+Zip,32667,FL,Alachua County,Micanopy,7/31/2022,10
+Zip,32668,FL,Levy County,Morriston,7/31/2022,7.4
+Zip,32669,FL,Alachua County,Newberry,7/31/2022,9.5
+Zip,32680,FL,Dixie County,Old Town,7/31/2022,6.8
+Zip,32683,FL,Levy County,Otter Creek,7/31/2022,6.7
+Zip,32686,FL,Marion County,Reddick,7/31/2022,9
+Zip,32693,FL,Gilchrist County,Trenton,7/31/2022,5.5
+Zip,32694,FL,Alachua County,Waldo,7/31/2022,10.1
+Zip,32696,FL,Levy County,Williston,7/31/2022,6.2
+Zip,32701,FL,Seminole County,Altamonte Springs,7/31/2022,9.1
+Zip,32702,FL,Lake County,Altoona,7/31/2022,8.5
+Zip,32703,FL,Orange County,Apopka,7/31/2022,10.7
+Zip,32707,FL,Seminole County,Casselberry,7/31/2022,9.7
+Zip,32708,FL,Seminole County,Winter Springs,7/31/2022,9.6
+Zip,32712,FL,Orange County,Apopka,7/31/2022,11.6
+Zip,32713,FL,Volusia County,Debary,7/31/2022,11
+Zip,32714,FL,Seminole County,Altamonte Springs,7/31/2022,9.3
+Zip,32720,FL,Volusia County,Deland,7/31/2022,11.5
+Zip,32724,FL,Volusia County,Deland,7/31/2022,11.5
+Zip,32725,FL,Volusia County,Deltona,7/31/2022,11.2
+Zip,32726,FL,Lake County,Eustis,7/31/2022,10.8
+Zip,32730,FL,Seminole County,Casselberry,7/31/2022,8.3
+Zip,32732,FL,Seminole County,Geneva,7/31/2022,9.5
+Zip,32735,FL,Lake County,Grand Island,7/31/2022,11.2
+Zip,32736,FL,Lake County,Eustis,7/31/2022,11.5
+Zip,32738,FL,Volusia County,Deltona,7/31/2022,11.3
+Zip,32744,FL,Volusia County,Lake Helen,7/31/2022,11.4
+Zip,32746,FL,Seminole County,Lake Mary,7/31/2022,9.3
+Zip,32750,FL,Seminole County,Longwood,7/31/2022,9.8
+Zip,32751,FL,Orange County,Maitland,7/31/2022,9.7
+Zip,32754,FL,Brevard County,Mims,7/31/2022,10.1
+Zip,32757,FL,Lake County,Mount Dora,7/31/2022,10.9
+Zip,32759,FL,Volusia County,Oak Hill,7/31/2022,10.9
+Zip,32763,FL,Volusia County,Orange City,7/31/2022,11.2
+Zip,32764,FL,Brevard County,Mims,7/31/2022,11.1
+Zip,32765,FL,Seminole County,Oviedo,7/31/2022,9.3
+Zip,32766,FL,Seminole County,Oviedo,7/31/2022,9.4
+Zip,32767,FL,Lake County,Paisley,7/31/2022,10.7
+Zip,32771,FL,Seminole County,Sanford,7/31/2022,9.2
+Zip,32773,FL,Seminole County,Sanford,7/31/2022,8.9
+Zip,32776,FL,Lake County,Sorrento,7/31/2022,11.7
+Zip,32778,FL,Lake County,Tavares,7/31/2022,11.3
+Zip,32779,FL,Seminole County,Longwood,7/31/2022,9.4
+Zip,32780,FL,Brevard County,Titusville,7/31/2022,9.9
+Zip,32784,FL,Lake County,Umatilla,7/31/2022,10.1
+Zip,32789,FL,Orange County,Winter Park,7/31/2022,9.9
+Zip,32792,FL,Orange County,Winter Park,7/31/2022,9.7
+Zip,32796,FL,Brevard County,Titusville,7/31/2022,10.4
+Zip,32798,FL,Orange County,Zellwood,7/31/2022,11.8
+Zip,32801,FL,Orange County,Orlando,7/31/2022,8.8
+Zip,32803,FL,Orange County,Orlando,7/31/2022,9.9
+Zip,32804,FL,Orange County,Orlando,7/31/2022,9.6
+Zip,32805,FL,Orange County,Orlando,7/31/2022,10.4
+Zip,32806,FL,Orange County,Orlando,7/31/2022,9.4
+Zip,32807,FL,Orange County,Orlando,7/31/2022,10.3
+Zip,32808,FL,Orange County,Pine Hills,7/31/2022,10.9
+Zip,32809,FL,Orange County,Pine Castle,7/31/2022,10.2
+Zip,32810,FL,Orange County,Orlando,7/31/2022,10.4
+Zip,32811,FL,Orange County,Orlando,7/31/2022,10.4
+Zip,32812,FL,Orange County,Orlando,7/31/2022,10.1
+Zip,32814,FL,Orange County,Orlando,7/31/2022,9.9
+Zip,32817,FL,Orange County,Orlando,7/31/2022,11
+Zip,32818,FL,Orange County,Pine Hills,7/31/2022,10.8
+Zip,32819,FL,Orange County,Doctor Phillips,7/31/2022,10.7
+Zip,32820,FL,Orange County,Bithlo,7/31/2022,11
+Zip,32821,FL,Orange County,Williamsburg,7/31/2022,10.1
+Zip,32822,FL,Orange County,Orlando,7/31/2022,10.8
+Zip,32824,FL,Orange County,Orlando,7/31/2022,11
+Zip,32825,FL,Orange County,Orlando,7/31/2022,11.1
+Zip,32826,FL,Orange County,Orlando,7/31/2022,10.8
+Zip,32827,FL,Orange County,Orlando,7/31/2022,10.8
+Zip,32828,FL,Orange County,Orlando,7/31/2022,11.2
+Zip,32829,FL,Orange County,Orlando,7/31/2022,11.4
+Zip,32832,FL,Orange County,Orlando,7/31/2022,11
+Zip,32833,FL,Orange County,Wedgefield,7/31/2022,10.5
+Zip,32835,FL,Orange County,Orlando,7/31/2022,10.5
+Zip,32836,FL,Orange County,Doctor Phillips,7/31/2022,10.6
+Zip,32837,FL,Orange County,Orlando,7/31/2022,11.2
+Zip,32839,FL,Orange County,Orlando,7/31/2022,9.9
+Zip,32901,FL,Brevard County,Melbourne,7/31/2022,10.6
+Zip,32903,FL,Brevard County,Melbourne,7/31/2022,10.9
+Zip,32904,FL,Brevard County,West Melbourne,7/31/2022,10.3
+Zip,32905,FL,Brevard County,Palm Bay,7/31/2022,10.4
+Zip,32907,FL,Brevard County,Palm Bay,7/31/2022,10.6
+Zip,32908,FL,Brevard County,Palm Bay,7/31/2022,10.6
+Zip,32909,FL,Brevard County,Palm Bay,7/31/2022,10.7
+Zip,32920,FL,Brevard County,Cape Canaveral,7/31/2022,10.4
+Zip,32922,FL,Brevard County,Cocoa,7/31/2022,10.4
+Zip,32926,FL,Brevard County,Cocoa,7/31/2022,10
+Zip,32927,FL,Brevard County,Cocoa,7/31/2022,9.7
+Zip,32931,FL,Brevard County,Cocoa Beach,7/31/2022,10.5
+Zip,32934,FL,Brevard County,Melbourne,7/31/2022,10.6
+Zip,32935,FL,Brevard County,Melbourne,7/31/2022,10.7
+Zip,32937,FL,Brevard County,Satellite Beach,7/31/2022,10.7
+Zip,32940,FL,Brevard County,Melbourne,7/31/2022,10.2
+Zip,32948,FL,Indian River County,Fellsmere,7/31/2022,11
+Zip,32949,FL,Brevard County,Grant-Valkaria,7/31/2022,11.3
+Zip,32950,FL,Brevard County,Malabar,7/31/2022,10.6
+Zip,32951,FL,Brevard County,Melbourne Beach,7/31/2022,10.6
+Zip,32952,FL,Brevard County,Merritt Island,7/31/2022,10.4
+Zip,32953,FL,Brevard County,Merritt Island,7/31/2022,10.1
+Zip,32955,FL,Brevard County,Rockledge,7/31/2022,10.3
+Zip,32958,FL,Indian River County,Sebastian,7/31/2022,10.7
+Zip,32960,FL,Indian River County,Vero Beach,7/31/2022,10.4
+Zip,32962,FL,Indian River County,Vero Beach,7/31/2022,10.2
+Zip,32963,FL,Indian River County,Vero Beach,7/31/2022,10.5
+Zip,32966,FL,Indian River County,Vero Beach,7/31/2022,10.2
+Zip,32967,FL,Indian River County,Vero Beach,7/31/2022,10.3
+Zip,32968,FL,Indian River County,Vero Beach,7/31/2022,10.9
+Zip,32976,FL,Brevard County,Micco,7/31/2022,10.3
+Zip,33001,FL,Monroe County,Layton,7/31/2022,9.6
+Zip,33004,FL,Broward County,Dania Beach,7/31/2022,8.9
+Zip,33009,FL,Broward County,Hallandale,7/31/2022,8.7
+Zip,33010,FL,Miami-Dade County,Hialeah,7/31/2022,8.5
+Zip,33012,FL,Miami-Dade County,Hialeah,7/31/2022,7.3
+Zip,33013,FL,Miami-Dade County,Hialeah,7/31/2022,7.3
+Zip,33014,FL,Miami-Dade County,Hialeah,7/31/2022,6.9
+Zip,33015,FL,Miami-Dade County,Country Club,7/31/2022,7.3
+Zip,33016,FL,Miami-Dade County,Hialeah,7/31/2022,7
+Zip,33018,FL,Miami-Dade County,Hialeah,7/31/2022,7.3
+Zip,33019,FL,Broward County,Hollywood,7/31/2022,9.3
+Zip,33020,FL,Broward County,Hollywood,7/31/2022,9.6
+Zip,33021,FL,Broward County,Hollywood,7/31/2022,10.1
+Zip,33023,FL,Broward County,Miramar,7/31/2022,9.9
+Zip,33024,FL,Broward County,Pembroke Pines,7/31/2022,10
+Zip,33025,FL,Broward County,Miramar,7/31/2022,9.5
+Zip,33026,FL,Broward County,Pembroke Pines,7/31/2022,9.5
+Zip,33027,FL,Broward County,Miramar,7/31/2022,9.7
+Zip,33028,FL,Broward County,Pembroke Pines,7/31/2022,10.2
+Zip,33029,FL,Broward County,Pembroke Pines,7/31/2022,10.2
+Zip,33030,FL,Miami-Dade County,Homestead,7/31/2022,8.5
+Zip,33031,FL,Miami-Dade County,Homestead,7/31/2022,9.7
+Zip,33032,FL,Miami-Dade County,Princeton,7/31/2022,8.1
+Zip,33033,FL,Miami-Dade County,Homestead,7/31/2022,8.8
+Zip,33034,FL,Miami-Dade County,Florida City,7/31/2022,10.1
+Zip,33035,FL,Miami-Dade County,Homestead,7/31/2022,8.3
+Zip,33036,FL,Monroe County,Islamorada,7/31/2022,10.4
+Zip,33037,FL,Monroe County,Key Largo,7/31/2022,11.2
+Zip,33040,FL,Monroe County,Key West,7/31/2022,9.3
+Zip,33042,FL,Monroe County,Summerland Key,7/31/2022,10
+Zip,33043,FL,Monroe County,Big Pine Key,7/31/2022,10.4
+Zip,33050,FL,Monroe County,Marathon,7/31/2022,10
+Zip,33051,FL,Monroe County,Key Colony Beach,7/31/2022,10.3
+Zip,33054,FL,Miami-Dade County,Miami Gardens,7/31/2022,8.2
+Zip,33055,FL,Miami-Dade County,Miami Gardens,7/31/2022,8
+Zip,33056,FL,Miami-Dade County,Miami Gardens,7/31/2022,7.9
+Zip,33060,FL,Broward County,Pompano Beach,7/31/2022,9.8
+Zip,33062,FL,Broward County,Pompano Beach,7/31/2022,9.3
+Zip,33063,FL,Broward County,Margate,7/31/2022,9.6
+Zip,33064,FL,Broward County,Pompano Beach,7/31/2022,10
+Zip,33065,FL,Broward County,Coral Springs,7/31/2022,9.9
+Zip,33066,FL,Broward County,Coconut Creek,7/31/2022,9.1
+Zip,33067,FL,Broward County,Coral Springs,7/31/2022,10.7
+Zip,33068,FL,Broward County,North Lauderdale,7/31/2022,10
+Zip,33069,FL,Broward County,Pompano Beach,7/31/2022,9.6
+Zip,33070,FL,Monroe County,Tavernier,7/31/2022,10.7
+Zip,33071,FL,Broward County,Coral Springs,7/31/2022,10.3
+Zip,33073,FL,Broward County,Coconut Creek,7/31/2022,9.8
+Zip,33076,FL,Broward County,Parkland,7/31/2022,10.7
+Zip,33109,FL,Miami-Dade County,Fisher Island,7/31/2022,6.4
+Zip,33122,FL,Miami-Dade County,Doral,7/31/2022,5.4
+Zip,33125,FL,Miami-Dade County,Miami,7/31/2022,7.6
+Zip,33126,FL,Miami-Dade County,Miami,7/31/2022,6.7
+Zip,33127,FL,Miami-Dade County,Miami,7/31/2022,9.4
+Zip,33128,FL,Miami-Dade County,Miami,7/31/2022,7
+Zip,33129,FL,Miami-Dade County,Miami,7/31/2022,7.8
+Zip,33130,FL,Miami-Dade County,Miami,7/31/2022,7.3
+Zip,33131,FL,Miami-Dade County,Miami,7/31/2022,7.7
+Zip,33132,FL,Miami-Dade County,Miami,7/31/2022,7.7
+Zip,33133,FL,Miami-Dade County,Miami,7/31/2022,8.9
+Zip,33134,FL,Miami-Dade County,Coral Gables,7/31/2022,7.8
+Zip,33135,FL,Miami-Dade County,Miami,7/31/2022,8.5
+Zip,33136,FL,Miami-Dade County,Miami,7/31/2022,6.8
+Zip,33137,FL,Miami-Dade County,Miami,7/31/2022,8.5
+Zip,33138,FL,Miami-Dade County,Miami,7/31/2022,9.5
+Zip,33139,FL,Miami-Dade County,Miami Beach,7/31/2022,6.8
+Zip,33140,FL,Miami-Dade County,Miami Beach,7/31/2022,7.2
+Zip,33141,FL,Miami-Dade County,Miami Beach,7/31/2022,7.4
+Zip,33142,FL,Miami-Dade County,Miami,7/31/2022,7.6
+Zip,33143,FL,Miami-Dade County,Glenvar Heights,7/31/2022,8.6
+Zip,33144,FL,Miami-Dade County,Miami,7/31/2022,8.2
+Zip,33145,FL,Miami-Dade County,Miami,7/31/2022,8.5
+Zip,33146,FL,Miami-Dade County,Coral Gables,7/31/2022,9.7
+Zip,33147,FL,Miami-Dade County,West Little River,7/31/2022,8
+Zip,33149,FL,Miami-Dade County,Key Biscayne,7/31/2022,8.5
+Zip,33150,FL,Miami-Dade County,Miami,7/31/2022,8.8
+Zip,33154,FL,Miami-Dade County,Bal Harbour,7/31/2022,7.8
+Zip,33155,FL,Miami-Dade County,Miami,7/31/2022,8.2
+Zip,33156,FL,Miami-Dade County,Pinecrest,7/31/2022,9
+Zip,33157,FL,Miami-Dade County,Village of Palmetto Bay,7/31/2022,8.2
+Zip,33158,FL,Miami-Dade County,Village of Palmetto Bay,7/31/2022,9
+Zip,33160,FL,Miami-Dade County,Sunny Isles Beach,7/31/2022,7.6
+Zip,33161,FL,Miami-Dade County,North Miami,7/31/2022,8.9
+Zip,33162,FL,Miami-Dade County,North Miami Beach,7/31/2022,8.5
+Zip,33165,FL,Miami-Dade County,University Park,7/31/2022,7.8
+Zip,33166,FL,Miami-Dade County,Miami Springs,7/31/2022,7.4
+Zip,33167,FL,Miami-Dade County,Westview,7/31/2022,8.5
+Zip,33168,FL,Miami-Dade County,North Miami,7/31/2022,8
+Zip,33169,FL,Miami-Dade County,Miami Gardens,7/31/2022,8
+Zip,33170,FL,Miami-Dade County,Goulds,7/31/2022,8.7
+Zip,33172,FL,Miami-Dade County,Fountainbleau,7/31/2022,7
+Zip,33173,FL,Miami-Dade County,Kendall,7/31/2022,7.4
+Zip,33174,FL,Miami-Dade County,Fountainbleau,7/31/2022,7.7
+Zip,33175,FL,Miami-Dade County,Tamiami,7/31/2022,8
+Zip,33176,FL,Miami-Dade County,Kendall,7/31/2022,7.6
+Zip,33177,FL,Miami-Dade County,South Miami Heights,7/31/2022,8.4
+Zip,33178,FL,Miami-Dade County,Doral,7/31/2022,7.6
+Zip,33179,FL,Miami-Dade County,Ives Estates,7/31/2022,7.6
+Zip,33180,FL,Miami-Dade County,Aventura,7/31/2022,6.9
+Zip,33181,FL,Miami-Dade County,North Miami,7/31/2022,7.2
+Zip,33182,FL,Miami-Dade County,Tamiami,7/31/2022,8.1
+Zip,33183,FL,Miami-Dade County,Kendale Lakes,7/31/2022,7.5
+Zip,33184,FL,Miami-Dade County,Tamiami,7/31/2022,7.6
+Zip,33185,FL,Miami-Dade County,Kendall West,7/31/2022,8.1
+Zip,33186,FL,Miami-Dade County,The Crossings,7/31/2022,7.8
+Zip,33187,FL,Miami-Dade County,Richmond West,7/31/2022,8.1
+Zip,33189,FL,Miami-Dade County,Cutler Bay,7/31/2022,8.4
+Zip,33190,FL,Miami-Dade County,Cutler Bay,7/31/2022,8.3
+Zip,33193,FL,Miami-Dade County,Kendall West,7/31/2022,7.5
+Zip,33196,FL,Miami-Dade County,The Hammocks,7/31/2022,8.1
+Zip,33301,FL,Broward County,Fort Lauderdale,7/31/2022,9.1
+Zip,33304,FL,Broward County,Fort Lauderdale,7/31/2022,9.4
+Zip,33305,FL,Broward County,Fort Lauderdale,7/31/2022,9.5
+Zip,33306,FL,Broward County,Fort Lauderdale,7/31/2022,9.4
+Zip,33308,FL,Broward County,Fort Lauderdale,7/31/2022,9.5
+Zip,33309,FL,Broward County,Oakland Park,7/31/2022,10
+Zip,33311,FL,Broward County,Fort Lauderdale,7/31/2022,10.6
+Zip,33312,FL,Broward County,Fort Lauderdale,7/31/2022,10.3
+Zip,33313,FL,Broward County,Lauderhill,7/31/2022,10
+Zip,33314,FL,Broward County,Davie,7/31/2022,10
+Zip,33315,FL,Broward County,Fort Lauderdale,7/31/2022,10
+Zip,33316,FL,Broward County,Fort Lauderdale,7/31/2022,8.9
+Zip,33317,FL,Broward County,Plantation,7/31/2022,10.4
+Zip,33319,FL,Broward County,Lauderhill,7/31/2022,9.4
+Zip,33321,FL,Broward County,Tamarac,7/31/2022,9.3
+Zip,33322,FL,Broward County,Sunrise,7/31/2022,9.6
+Zip,33323,FL,Broward County,Sunrise,7/31/2022,9.4
+Zip,33324,FL,Broward County,Plantation,7/31/2022,9.4
+Zip,33325,FL,Broward County,Davie,7/31/2022,10.1
+Zip,33326,FL,Broward County,Weston,7/31/2022,9.9
+Zip,33327,FL,Broward County,Weston,7/31/2022,10.4
+Zip,33328,FL,Broward County,Davie,7/31/2022,10
+Zip,33330,FL,Broward County,Cooper City,7/31/2022,10.3
+Zip,33331,FL,Broward County,Weston,7/31/2022,10.3
+Zip,33332,FL,Broward County,Weston,7/31/2022,10.5
+Zip,33334,FL,Broward County,Oakland Park,7/31/2022,9.6
+Zip,33351,FL,Broward County,Sunrise,7/31/2022,9.7
+Zip,33401,FL,Palm Beach County,West Palm Beach,7/31/2022,9.2
+Zip,33403,FL,Palm Beach County,Lake Park,7/31/2022,9.5
+Zip,33404,FL,Palm Beach County,Riviera Beach,7/31/2022,9.3
+Zip,33405,FL,Palm Beach County,West Palm Beach,7/31/2022,10.8
+Zip,33406,FL,Palm Beach County,Lake Clarke Shores,7/31/2022,10.1
+Zip,33407,FL,Palm Beach County,West Palm Beach,7/31/2022,9.7
+Zip,33408,FL,Palm Beach County,North Palm Beach,7/31/2022,9.6
+Zip,33409,FL,Palm Beach County,West Palm Beach,7/31/2022,9.1
+Zip,33410,FL,Palm Beach County,Palm Beach Gardens,7/31/2022,9.7
+Zip,33411,FL,Palm Beach County,Royal Palm Beach,7/31/2022,9.8
+Zip,33412,FL,Palm Beach County,West Palm Beach,7/31/2022,11
+Zip,33413,FL,Palm Beach County,Greenacres,7/31/2022,9.8
+Zip,33414,FL,Palm Beach County,Wellington,7/31/2022,10
+Zip,33415,FL,Palm Beach County,Greenacres,7/31/2022,9.1
+Zip,33417,FL,Palm Beach County,Century Village,7/31/2022,9
+Zip,33418,FL,Palm Beach County,Palm Beach Gardens,7/31/2022,9.9
+Zip,33426,FL,Palm Beach County,Boynton Beach,7/31/2022,9.7
+Zip,33428,FL,Palm Beach County,Boca Raton,7/31/2022,9.7
+Zip,33430,FL,Palm Beach County,Belle Glade,7/31/2022,14.6
+Zip,33431,FL,Palm Beach County,Boca Raton,7/31/2022,10.2
+Zip,33432,FL,Palm Beach County,Boca Raton,7/31/2022,9.4
+Zip,33433,FL,Palm Beach County,Boca Raton,7/31/2022,9.5
+Zip,33434,FL,Palm Beach County,Boca Raton,7/31/2022,9.2
+Zip,33435,FL,Palm Beach County,Boynton Beach,7/31/2022,10.1
+Zip,33436,FL,Palm Beach County,Boynton Beach,7/31/2022,9.8
+Zip,33437,FL,Palm Beach County,Boynton Beach,7/31/2022,9.7
+Zip,33438,FL,Palm Beach County,Canal Point,7/31/2022,12.2
+Zip,33440,FL,Hendry County,Clewiston,7/31/2022,6.9
+Zip,33441,FL,Broward County,Deerfield Beach,7/31/2022,9.2
+Zip,33442,FL,Broward County,Deerfield Beach,7/31/2022,9.6
+Zip,33444,FL,Palm Beach County,Delray Beach,7/31/2022,10.2
+Zip,33445,FL,Palm Beach County,Delray Beach,7/31/2022,9.7
+Zip,33446,FL,Palm Beach County,Delray Beach,7/31/2022,9.3
+Zip,33449,FL,Palm Beach County,Wellington,7/31/2022,10.5
+Zip,33455,FL,Martin County,Hobe Sound,7/31/2022,10.2
+Zip,33458,FL,Palm Beach County,Jupiter,7/31/2022,9.8
+Zip,33460,FL,Palm Beach County,Lake Worth,7/31/2022,10.3
+Zip,33461,FL,Palm Beach County,Palm Springs,7/31/2022,9.5
+Zip,33462,FL,Palm Beach County,Lantana,7/31/2022,10.1
+Zip,33463,FL,Palm Beach County,Greenacres,7/31/2022,9.7
+Zip,33467,FL,Palm Beach County,Greenacres,7/31/2022,9.7
+Zip,33469,FL,Palm Beach County,Tequesta,7/31/2022,10.3
+Zip,33470,FL,Palm Beach County,Loxahatchee Groves,7/31/2022,10.7
+Zip,33471,FL,Glades County,Moore Haven,7/31/2022,5.6
+Zip,33472,FL,Palm Beach County,Boynton Beach,7/31/2022,9.9
+Zip,33473,FL,Palm Beach County,Boynton Beach,7/31/2022,10
+Zip,33476,FL,Palm Beach County,Pahokee,7/31/2022,13.1
+Zip,33477,FL,Palm Beach County,Jupiter,7/31/2022,9.6
+Zip,33478,FL,Palm Beach County,Jupiter,7/31/2022,10.1
+Zip,33480,FL,Palm Beach County,Palm Beach,7/31/2022,10.9
+Zip,33483,FL,Palm Beach County,Delray Beach,7/31/2022,9.7
+Zip,33484,FL,Palm Beach County,Delray Beach,7/31/2022,9
+Zip,33486,FL,Palm Beach County,Boca Raton,7/31/2022,11.1
+Zip,33487,FL,Palm Beach County,Boca Raton,7/31/2022,9.6
+Zip,33493,FL,Palm Beach County,South Bay,7/31/2022,13.6
+Zip,33496,FL,Palm Beach County,Boca Raton,7/31/2022,9.6
+Zip,33498,FL,Palm Beach County,Boca Raton,7/31/2022,10.7
+Zip,33510,FL,Hillsborough County,Brandon,7/31/2022,12.4
+Zip,33511,FL,Hillsborough County,Brandon,7/31/2022,12.8
+Zip,33513,FL,Sumter County,Bushnell,7/31/2022,10.4
+Zip,33514,FL,Sumter County,Center Hill,7/31/2022,9.6
+Zip,33521,FL,Sumter County,Coleman,7/31/2022,13.9
+Zip,33523,FL,Hernando County,Ridge Manor,7/31/2022,10.6
+Zip,33525,FL,Pasco County,Dade City,7/31/2022,11.4
+Zip,33527,FL,Hillsborough County,Dover,7/31/2022,12.6
+Zip,33534,FL,Hillsborough County,Gibsonton,7/31/2022,13.1
+Zip,33538,FL,Sumter County,Lake Panasoffkee,7/31/2022,10.1
+Zip,33540,FL,Pasco County,Zephyrhills,7/31/2022,11.6
+Zip,33541,FL,Pasco County,Zephyrhills,7/31/2022,11.6
+Zip,33542,FL,Pasco County,Zephyrhills,7/31/2022,9.8
+Zip,33543,FL,Pasco County,Wesley Chapel,7/31/2022,12.5
+Zip,33544,FL,Pasco County,Wesley Chapel,7/31/2022,12.3
+Zip,33545,FL,Pasco County,Wesley Chapel,7/31/2022,12.7
+Zip,33547,FL,Hillsborough County,Riverview,7/31/2022,12.4
+Zip,33548,FL,Hillsborough County,Lutz,7/31/2022,13.2
+Zip,33549,FL,Hillsborough County,Lutz,7/31/2022,12.6
+Zip,33556,FL,Hillsborough County,Odessa,7/31/2022,13
+Zip,33558,FL,Hillsborough County,Lutz,7/31/2022,12.6
+Zip,33559,FL,Hillsborough County,Lutz,7/31/2022,12.4
+Zip,33563,FL,Hillsborough County,Plant City,7/31/2022,11.8
+Zip,33565,FL,Hillsborough County,Plant City,7/31/2022,12.9
+Zip,33566,FL,Hillsborough County,Plant City,7/31/2022,12.5
+Zip,33567,FL,Hillsborough County,Plant City,7/31/2022,13
+Zip,33569,FL,Hillsborough County,Riverview,7/31/2022,13.1
+Zip,33570,FL,Hillsborough County,Ruskin,7/31/2022,13
+Zip,33572,FL,Hillsborough County,Apollo Beach,7/31/2022,12.5
+Zip,33573,FL,Hillsborough County,Sun City Center,7/31/2022,12.7
+Zip,33576,FL,Pasco County,San Antonio,7/31/2022,11.6
+Zip,33578,FL,Hillsborough County,Riverview,7/31/2022,12.7
+Zip,33579,FL,Hillsborough County,Riverview,7/31/2022,13.3
+Zip,33584,FL,Hillsborough County,Seffner,7/31/2022,12.7
+Zip,33585,FL,Sumter County,Center Hill,7/31/2022,10.2
+Zip,33592,FL,Hillsborough County,Thonotosassa,7/31/2022,12.5
+Zip,33594,FL,Hillsborough County,Valrico,7/31/2022,12.7
+Zip,33596,FL,Hillsborough County,Valrico,7/31/2022,13.3
+Zip,33597,FL,Hernando County,Webster,7/31/2022,10.3
+Zip,33598,FL,Hillsborough County,Wimauma,7/31/2022,12.6
+Zip,33602,FL,Hillsborough County,Tampa,7/31/2022,11
+Zip,33603,FL,Hillsborough County,Tampa,7/31/2022,11.7
+Zip,33604,FL,Hillsborough County,Tampa,7/31/2022,12.6
+Zip,33605,FL,Hillsborough County,Tampa,7/31/2022,12.9
+Zip,33606,FL,Hillsborough County,Tampa,7/31/2022,11.7
+Zip,33607,FL,Hillsborough County,Tampa,7/31/2022,12.3
+Zip,33609,FL,Hillsborough County,Tampa,7/31/2022,12.4
+Zip,33610,FL,Hillsborough County,Tampa,7/31/2022,12.3
+Zip,33611,FL,Hillsborough County,Tampa,7/31/2022,11.2
+Zip,33612,FL,Hillsborough County,Tampa,7/31/2022,11.6
+Zip,33613,FL,Hillsborough County,Lake Magdalene,7/31/2022,12.3
+Zip,33614,FL,Hillsborough County,Egypt Lake-Leto,7/31/2022,11.9
+Zip,33615,FL,Hillsborough County,Town 'n' Country,7/31/2022,12.1
+Zip,33616,FL,Hillsborough County,Tampa,7/31/2022,11
+Zip,33617,FL,Hillsborough County,Temple Terrace,7/31/2022,12.4
+Zip,33618,FL,Hillsborough County,Greater Carrollwood,7/31/2022,12.4
+Zip,33619,FL,Hillsborough County,Palm River-Clair Mel,7/31/2022,12.4
+Zip,33624,FL,Hillsborough County,Greater Carrollwood,7/31/2022,12.7
+Zip,33625,FL,Hillsborough County,Citrus Park,7/31/2022,12.7
+Zip,33626,FL,Hillsborough County,Westchase,7/31/2022,12.5
+Zip,33629,FL,Hillsborough County,Tampa,7/31/2022,12
+Zip,33634,FL,Hillsborough County,Town 'n' Country,7/31/2022,12.2
+Zip,33635,FL,Hillsborough County,Town 'n' Country,7/31/2022,12.7
+Zip,33637,FL,Hillsborough County,Temple Terrace,7/31/2022,12.3
+Zip,33647,FL,Hillsborough County,Tampa,7/31/2022,13
+Zip,33701,FL,Pinellas County,Saint Petersburg,7/31/2022,6.4
+Zip,33702,FL,Pinellas County,Saint Petersburg,7/31/2022,9.3
+Zip,33703,FL,Pinellas County,Saint Petersburg,7/31/2022,10
+Zip,33704,FL,Pinellas County,Saint Petersburg,7/31/2022,9
+Zip,33705,FL,Pinellas County,Saint Petersburg,7/31/2022,9.7
+Zip,33706,FL,Pinellas County,Saint Pete Beach,7/31/2022,10
+Zip,33707,FL,Pinellas County,Gulfport,7/31/2022,10
+Zip,33708,FL,Pinellas County,Madeira Beach,7/31/2022,10.6
+Zip,33709,FL,Pinellas County,Kenneth City,7/31/2022,9.5
+Zip,33710,FL,Pinellas County,Saint Petersburg,7/31/2022,9.8
+Zip,33711,FL,Pinellas County,Saint Petersburg,7/31/2022,9.5
+Zip,33712,FL,Pinellas County,Saint Petersburg,7/31/2022,8.4
+Zip,33713,FL,Pinellas County,Saint Petersburg,7/31/2022,9.6
+Zip,33714,FL,Pinellas County,West and East Lealman,7/31/2022,8.4
+Zip,33715,FL,Pinellas County,Saint Petersburg,7/31/2022,9.6
+Zip,33716,FL,Pinellas County,Saint Petersburg,7/31/2022,8.8
+Zip,33755,FL,Pinellas County,Clearwater,7/31/2022,10.9
+Zip,33756,FL,Pinellas County,Clearwater,7/31/2022,10.1
+Zip,33759,FL,Pinellas County,Clearwater,7/31/2022,8.5
+Zip,33760,FL,Pinellas County,South Highpoint,7/31/2022,8.1
+Zip,33761,FL,Pinellas County,Clearwater,7/31/2022,9.9
+Zip,33762,FL,Pinellas County,Feather Sound,7/31/2022,8.6
+Zip,33763,FL,Pinellas County,Clearwater,7/31/2022,9.1
+Zip,33764,FL,Pinellas County,Clearwater,7/31/2022,11.8
+Zip,33765,FL,Pinellas County,Clearwater,7/31/2022,10.2
+Zip,33767,FL,Pinellas County,Clearwater,7/31/2022,9.6
+Zip,33770,FL,Pinellas County,Largo,7/31/2022,10.8
+Zip,33771,FL,Pinellas County,Largo,7/31/2022,7.4
+Zip,33772,FL,Pinellas County,Seminole,7/31/2022,10.9
+Zip,33773,FL,Pinellas County,Largo,7/31/2022,9.8
+Zip,33774,FL,Pinellas County,Largo,7/31/2022,10.8
+Zip,33776,FL,Pinellas County,Seminole,7/31/2022,10.8
+Zip,33777,FL,Pinellas County,Seminole,7/31/2022,9.3
+Zip,33778,FL,Pinellas County,Largo,7/31/2022,10
+Zip,33781,FL,Pinellas County,Pinellas Park,7/31/2022,8.9
+Zip,33782,FL,Pinellas County,Pinellas Park,7/31/2022,9
+Zip,33785,FL,Pinellas County,Indian Rocks Beach,7/31/2022,9.4
+Zip,33786,FL,Pinellas County,Belleair Beach,7/31/2022,9.7
+Zip,33801,FL,Polk County,Lakeland,7/31/2022,11.2
+Zip,33803,FL,Polk County,Lakeland,7/31/2022,11
+Zip,33805,FL,Polk County,Lakeland,7/31/2022,10.8
+Zip,33809,FL,Polk County,Lakeland,7/31/2022,11
+Zip,33810,FL,Polk County,Lakeland,7/31/2022,11.1
+Zip,33811,FL,Polk County,Lakeland,7/31/2022,11.3
+Zip,33812,FL,Polk County,Lakeland,7/31/2022,11.5
+Zip,33813,FL,Polk County,Lakeland Highlands,7/31/2022,11.2
+Zip,33815,FL,Polk County,Lakeland,7/31/2022,10.8
+Zip,33823,FL,Polk County,Auburndale,7/31/2022,11.1
+Zip,33825,FL,Highlands County,Avon Park,7/31/2022,9.4
+Zip,33827,FL,Polk County,Babson Park,7/31/2022,10.5
+Zip,33830,FL,Polk County,Bartow,7/31/2022,11.7
+Zip,33834,FL,Hardee County,Bowling Green,7/31/2022,7.2
+Zip,33835,FL,Polk County,Mulberry,7/31/2022,17.6
+Zip,33837,FL,Polk County,Davenport,7/31/2022,11
+Zip,33838,FL,Polk County,Dundee,7/31/2022,12.2
+Zip,33839,FL,Polk County,Eagle Lake,7/31/2022,12
+Zip,33841,FL,Polk County,Fort Meade,7/31/2022,11.1
+Zip,33843,FL,Polk County,Frostproof,7/31/2022,10.9
+Zip,33844,FL,Polk County,Haines City,7/31/2022,11.1
+Zip,33846,FL,Polk County,Highland City,7/31/2022,9.9
+Zip,33847,FL,Polk County,Homeland,7/31/2022,11.3
+Zip,33848,FL,Osceola County,Kissimmee,7/31/2022,11.4
+Zip,33849,FL,Pasco County,Zephyrhills,7/31/2022,13.6
+Zip,33850,FL,Polk County,Lake Alfred,7/31/2022,11.3
+Zip,33851,FL,Polk County,Lake Hamilton,7/31/2022,10.7
+Zip,33852,FL,Highlands County,Lake Placid,7/31/2022,9.9
+Zip,33853,FL,Polk County,Lake Wales,7/31/2022,11.2
+Zip,33855,FL,Polk County,Lake Wales,7/31/2022,11.4
+Zip,33857,FL,Highlands County,Lorida,7/31/2022,10.3
+Zip,33859,FL,Polk County,Lake Wales,7/31/2022,11.1
+Zip,33860,FL,Polk County,Mulberry,7/31/2022,10.9
+Zip,33865,FL,Hardee County,Ona,7/31/2022,7.4
+Zip,33868,FL,Polk County,Polk City,7/31/2022,11.1
+Zip,33870,FL,Highlands County,Sebring,7/31/2022,9.4
+Zip,33872,FL,Highlands County,Sebring,7/31/2022,9.5
+Zip,33873,FL,Hardee County,Wauchula,7/31/2022,6.5
+Zip,33875,FL,Highlands County,Sebring,7/31/2022,10.4
+Zip,33876,FL,Highlands County,Sebring,7/31/2022,10.4
+Zip,33877,FL,Polk County,Lake Wales,7/31/2022,14.3
+Zip,33880,FL,Polk County,Winter Haven,7/31/2022,11.2
+Zip,33881,FL,Polk County,Winter Haven,7/31/2022,10.9
+Zip,33884,FL,Polk County,Winter Haven,7/31/2022,11
+Zip,33890,FL,Hardee County,Zolfo Springs,7/31/2022,5.7
+Zip,33896,FL,Osceola County,Citrus Ridge,7/31/2022,10.5
+Zip,33897,FL,Polk County,Davenport,7/31/2022,10.9
+Zip,33898,FL,Polk County,Lake Wales,7/31/2022,10.7
+Zip,33901,FL,Lee County,Fort Myers,7/31/2022,11.8
+Zip,33903,FL,Lee County,North Fort Myers,7/31/2022,12.9
+Zip,33904,FL,Lee County,Cape Coral,7/31/2022,13.2
+Zip,33905,FL,Lee County,Fort Myers,7/31/2022,12.2
+Zip,33907,FL,Lee County,Fort Myers,7/31/2022,12
+Zip,33908,FL,Lee County,Fort Myers,7/31/2022,12
+Zip,33909,FL,Lee County,Cape Coral,7/31/2022,13.3
+Zip,33912,FL,Lee County,Fort Myers,7/31/2022,12.3
+Zip,33913,FL,Lee County,Fort Myers,7/31/2022,12.2
+Zip,33914,FL,Lee County,Cape Coral,7/31/2022,13.5
+Zip,33916,FL,Lee County,Fort Myers,7/31/2022,11.4
+Zip,33917,FL,Lee County,North Fort Myers,7/31/2022,12.4
+Zip,33919,FL,Lee County,Fort Myers,7/31/2022,11.7
+Zip,33920,FL,Lee County,Alva,7/31/2022,13.2
+Zip,33921,FL,Lee County,Boca Grande,7/31/2022,13.4
+Zip,33922,FL,Lee County,Bokeelia,7/31/2022,12.1
+Zip,33924,FL,Lee County,Captiva,7/31/2022,11.1
+Zip,33928,FL,Lee County,Estero,7/31/2022,12.1
+Zip,33930,FL,Collier County,Immokalee,7/31/2022,6
+Zip,33931,FL,Lee County,Fort Myers Beach,7/31/2022,11.5
+Zip,33935,FL,Hendry County,Labelle,7/31/2022,6.4
+Zip,33936,FL,Lee County,Lehigh Acres,7/31/2022,12
+Zip,33944,FL,Glades County,Moore Haven,7/31/2022,7.1
+Zip,33946,FL,Charlotte County,Port Charlotte,7/31/2022,11.2
+Zip,33947,FL,Charlotte County,Rotonda West,7/31/2022,12.7
+Zip,33948,FL,Charlotte County,Port Charlotte,7/31/2022,12.2
+Zip,33950,FL,Charlotte County,Punta Gorda,7/31/2022,12.6
+Zip,33952,FL,Charlotte County,Port Charlotte,7/31/2022,12.5
+Zip,33953,FL,Charlotte County,Port Charlotte,7/31/2022,12.1
+Zip,33954,FL,Charlotte County,Port Charlotte,7/31/2022,12.2
+Zip,33955,FL,Charlotte County,Punta Gorda,7/31/2022,11.6
+Zip,33956,FL,Lee County,Saint James City,7/31/2022,13.3
+Zip,33957,FL,Lee County,Sanibel,7/31/2022,11.6
+Zip,33960,FL,Highlands County,Venus,7/31/2022,11.1
+Zip,33966,FL,Lee County,Fort Myers,7/31/2022,12.2
+Zip,33967,FL,Lee County,Fort Myers,7/31/2022,11.8
+Zip,33971,FL,Lee County,Lehigh Acres,7/31/2022,12.3
+Zip,33972,FL,Lee County,Lehigh Acres,7/31/2022,12.9
+Zip,33973,FL,Lee County,Lehigh Acres,7/31/2022,10.1
+Zip,33974,FL,Lee County,Lehigh Acres,7/31/2022,12.6
+Zip,33976,FL,Lee County,Lehigh Acres,7/31/2022,12.7
+Zip,33980,FL,Charlotte County,Punta Gorda,7/31/2022,12
+Zip,33981,FL,Charlotte County,Port Charlotte,7/31/2022,12.5
+Zip,33982,FL,Charlotte County,Punta Gorda,7/31/2022,11.6
+Zip,33983,FL,Charlotte County,Punta Gorda,7/31/2022,12.2
+Zip,33990,FL,Lee County,Cape Coral,7/31/2022,13.3
+Zip,33991,FL,Lee County,Cape Coral,7/31/2022,13.1
+Zip,33993,FL,Lee County,Cape Coral,7/31/2022,13.1
+Zip,34102,FL,Collier County,Naples,7/31/2022,13.5
+Zip,34103,FL,Collier County,Naples,7/31/2022,13.1
+Zip,34104,FL,Collier County,Naples,7/31/2022,12.1
+Zip,34105,FL,Collier County,Naples,7/31/2022,12
+Zip,34108,FL,Collier County,Naples,7/31/2022,12.3
+Zip,34109,FL,Collier County,Naples,7/31/2022,12.8
+Zip,34110,FL,Collier County,Naples,7/31/2022,12.5
+Zip,34112,FL,Collier County,Naples,7/31/2022,12.1
+Zip,34113,FL,Collier County,Naples,7/31/2022,12.5
+Zip,34114,FL,Collier County,Naples,7/31/2022,13.2
+Zip,34116,FL,Collier County,Naples,7/31/2022,11.6
+Zip,34117,FL,Collier County,Naples,7/31/2022,12.3
+Zip,34119,FL,Collier County,Naples,7/31/2022,13.2
+Zip,34120,FL,Collier County,Naples,7/31/2022,12.4
+Zip,34134,FL,Lee County,Bonita Springs,7/31/2022,12
+Zip,34135,FL,Lee County,Bonita Springs,7/31/2022,11.9
+Zip,34138,FL,Collier County,Chokoloskee,7/31/2022,9.5
+Zip,34139,FL,Collier County,Everglades,7/31/2022,7.1
+Zip,34140,FL,Collier County,Goodland,7/31/2022,12.7
+Zip,34141,FL,Collier County,Ochopee,7/31/2022,10.4
+Zip,34142,FL,Collier County,Immokalee,7/31/2022,13.5
+Zip,34145,FL,Collier County,Marco Island,7/31/2022,13
+Zip,34201,FL,Sarasota County,Sarasota,7/31/2022,12.5
+Zip,34202,FL,Manatee County,Bradenton,7/31/2022,13
+Zip,34203,FL,Manatee County,Bradenton,7/31/2022,12.7
+Zip,34205,FL,Manatee County,Bradenton,7/31/2022,11.7
+Zip,34207,FL,Manatee County,Bradenton,7/31/2022,11.9
+Zip,34208,FL,Manatee County,Bradenton,7/31/2022,12.2
+Zip,34209,FL,Manatee County,Bradenton,7/31/2022,12.6
+Zip,34210,FL,Manatee County,Bradenton,7/31/2022,11.8
+Zip,34211,FL,Manatee County,Bradenton,7/31/2022,12.9
+Zip,34212,FL,Manatee County,Bradenton,7/31/2022,13.2
+Zip,34215,FL,Manatee County,Cortez,7/31/2022,10.2
+Zip,34216,FL,Manatee County,Anna Maria,7/31/2022,13.5
+Zip,34217,FL,Manatee County,Holmes Beach,7/31/2022,13.2
+Zip,34219,FL,Manatee County,Parrish,7/31/2022,12.5
+Zip,34221,FL,Manatee County,Palmetto,7/31/2022,12.6
+Zip,34222,FL,Manatee County,Ellenton,7/31/2022,12.9
+Zip,34223,FL,Charlotte County,Englewood,7/31/2022,13.3
+Zip,34224,FL,Charlotte County,Englewood,7/31/2022,12.3
+Zip,34228,FL,Sarasota County,Longboat Key,7/31/2022,13.3
+Zip,34229,FL,Sarasota County,Osprey,7/31/2022,13.4
+Zip,34231,FL,Sarasota County,Sarasota,7/31/2022,13.4
+Zip,34232,FL,Sarasota County,Sarasota,7/31/2022,13.4
+Zip,34233,FL,Sarasota County,Sarasota,7/31/2022,13.2
+Zip,34234,FL,Sarasota County,Sarasota,7/31/2022,12.2
+Zip,34235,FL,Sarasota County,Sarasota,7/31/2022,12.7
+Zip,34236,FL,Sarasota County,Sarasota,7/31/2022,12.5
+Zip,34237,FL,Sarasota County,Sarasota,7/31/2022,13.2
+Zip,34238,FL,Sarasota County,Sarasota,7/31/2022,13.3
+Zip,34239,FL,Sarasota County,Sarasota,7/31/2022,13.3
+Zip,34240,FL,Sarasota County,Sarasota,7/31/2022,14
+Zip,34241,FL,Sarasota County,Sarasota,7/31/2022,13.9
+Zip,34242,FL,Sarasota County,Siesta Key,7/31/2022,12.8
+Zip,34243,FL,Sarasota County,Sarasota,7/31/2022,12.4
+Zip,34250,FL,Manatee County,Terra Ceia,7/31/2022,12
+Zip,34251,FL,Manatee County,Myakka City,7/31/2022,13.3
+Zip,34266,FL,De Soto County,Arcadia,7/31/2022,6.7
+Zip,34269,FL,De Soto County,Arcadia,7/31/2022,6.2
+Zip,34275,FL,Sarasota County,Nokomis,7/31/2022,13.3
+Zip,34285,FL,Sarasota County,Venice,7/31/2022,13.2
+Zip,34286,FL,Sarasota County,North Port,7/31/2022,14.4
+Zip,34287,FL,Sarasota County,North Port,7/31/2022,13.7
+Zip,34288,FL,Sarasota County,North Port,7/31/2022,13.9
+Zip,34289,FL,Sarasota County,North Port,7/31/2022,13.8
+Zip,34291,FL,Sarasota County,North Port,7/31/2022,13.9
+Zip,34292,FL,Sarasota County,Venice,7/31/2022,13.5
+Zip,34293,FL,Sarasota County,Venice,7/31/2022,13.9
+Zip,34420,FL,Marion County,Belleview,7/31/2022,8.2
+Zip,34428,FL,Citrus County,Crystal River,7/31/2022,10.1
+Zip,34429,FL,Citrus County,Crystal River,7/31/2022,9.5
+Zip,34431,FL,Marion County,Dunnellon,7/31/2022,8.7
+Zip,34432,FL,Marion County,Dunnellon,7/31/2022,9.7
+Zip,34433,FL,Marion County,Dunnellon,7/31/2022,9.9
+Zip,34434,FL,Marion County,Dunnellon,7/31/2022,10
+Zip,34436,FL,Citrus County,Floral City,7/31/2022,10.4
+Zip,34442,FL,Citrus County,Hernando,7/31/2022,9.9
+Zip,34445,FL,Citrus County,Beverly Hills,7/31/2022,9.3
+Zip,34446,FL,Citrus County,Homosassa,7/31/2022,9.6
+Zip,34448,FL,Citrus County,Homosassa,7/31/2022,10
+Zip,34449,FL,Levy County,Inglis,7/31/2022,5.4
+Zip,34450,FL,Citrus County,Inverness,7/31/2022,9.6
+Zip,34452,FL,Citrus County,Inverness,7/31/2022,9.4
+Zip,34453,FL,Citrus County,Inverness,7/31/2022,9.4
+Zip,34461,FL,Citrus County,Lecanto,7/31/2022,9.7
+Zip,34465,FL,Citrus County,Beverly Hills,7/31/2022,9.4
+Zip,34470,FL,Marion County,Ocala,7/31/2022,8.4
+Zip,34471,FL,Marion County,Ocala,7/31/2022,9.6
+Zip,34472,FL,Marion County,Ocala,7/31/2022,8.6
+Zip,34473,FL,Marion County,Ocala,7/31/2022,9.3
+Zip,34474,FL,Marion County,Ocala,7/31/2022,9
+Zip,34475,FL,Marion County,Ocala,7/31/2022,9.7
+Zip,34476,FL,Marion County,Ocala,7/31/2022,8.8
+Zip,34479,FL,Marion County,Ocala,7/31/2022,9
+Zip,34480,FL,Marion County,Ocala,7/31/2022,8.8
+Zip,34481,FL,Marion County,Ocala,7/31/2022,8.8
+Zip,34482,FL,Marion County,Ocala,7/31/2022,8.7
+Zip,34484,FL,Sumter County,Oxford,7/31/2022,8.6
+Zip,34488,FL,Marion County,Silver Springs,7/31/2022,8.4
+Zip,34491,FL,Marion County,Summerfield,7/31/2022,8.3
+Zip,34498,FL,Levy County,Yankeetown,7/31/2022,5.1
+Zip,34601,FL,Hernando County,Brooksville,7/31/2022,12.6
+Zip,34602,FL,Hernando County,Brooksville,7/31/2022,11.8
+Zip,34604,FL,Hernando County,Spring Hill,7/31/2022,11.5
+Zip,34606,FL,Hernando County,Spring Hill,7/31/2022,12.2
+Zip,34607,FL,Hernando County,Hernando Beach,7/31/2022,11.7
+Zip,34608,FL,Hernando County,Spring Hill,7/31/2022,12.3
+Zip,34609,FL,Hernando County,Spring Hill,7/31/2022,12.1
+Zip,34610,FL,Pasco County,Shady Hills,7/31/2022,11.6
+Zip,34613,FL,Hernando County,North Weeki Wachee,7/31/2022,12
+Zip,34614,FL,Hernando County,Brooksville,7/31/2022,12.3
+Zip,34637,FL,Pasco County,Land O Lakes,7/31/2022,12.4
+Zip,34638,FL,Pasco County,Land O Lakes,7/31/2022,12.3
+Zip,34639,FL,Pasco County,Land O Lakes,7/31/2022,12.4
+Zip,34652,FL,Pasco County,New Port Richey,7/31/2022,12.7
+Zip,34653,FL,Pasco County,New Port Richey,7/31/2022,12.5
+Zip,34654,FL,Pasco County,New Port Richey,7/31/2022,11.7
+Zip,34655,FL,Pasco County,New Port Richey,7/31/2022,11.9
+Zip,34661,FL,Sumter County,Bushnell,7/31/2022,9.4
+Zip,34667,FL,Pasco County,Hudson,7/31/2022,11.8
+Zip,34668,FL,Pasco County,Port Richey,7/31/2022,12
+Zip,34669,FL,Pasco County,Hudson,7/31/2022,12.1
+Zip,34677,FL,Pinellas County,Oldsmar,7/31/2022,9.6
+Zip,34681,FL,Pinellas County,Palm Harbor,7/31/2022,4.9
+Zip,34683,FL,Pinellas County,Palm Harbor,7/31/2022,9.8
+Zip,34684,FL,Pinellas County,Palm Harbor,7/31/2022,9
+Zip,34685,FL,Pinellas County,Palm Harbor,7/31/2022,9.7
+Zip,34688,FL,Pinellas County,Tarpon Springs,7/31/2022,11.9
+Zip,34689,FL,Pinellas County,Tarpon Springs,7/31/2022,10.5
+Zip,34690,FL,Pasco County,Holiday,7/31/2022,12.3
+Zip,34691,FL,Pasco County,Holiday,7/31/2022,12.2
+Zip,34695,FL,Pinellas County,Safety Harbor,7/31/2022,10.4
+Zip,34698,FL,Pinellas County,Dunedin,7/31/2022,10
+Zip,34705,FL,Lake County,Astatula,7/31/2022,11
+Zip,34711,FL,Lake County,Clermont,7/31/2022,11.2
+Zip,34714,FL,Osceola County,Citrus Ridge,7/31/2022,11.3
+Zip,34715,FL,Lake County,Clermont,7/31/2022,12
+Zip,34729,FL,Lake County,Ferndale,7/31/2022,10
+Zip,34731,FL,Lake County,Fruitland Park,7/31/2022,11.6
+Zip,34734,FL,Orange County,Gotha,7/31/2022,10.8
+Zip,34736,FL,Lake County,Groveland,7/31/2022,11.1
+Zip,34737,FL,Lake County,Howey in the Hills,7/31/2022,11
+Zip,34739,FL,Osceola County,Kenansville,7/31/2022,8.6
+Zip,34741,FL,Osceola County,Kissimmee,7/31/2022,10.9
+Zip,34743,FL,Osceola County,Kissimmee,7/31/2022,10.9
+Zip,34744,FL,Osceola County,Kissimmee,7/31/2022,11.2
+Zip,34746,FL,Osceola County,Kissimmee,7/31/2022,11.1
+Zip,34747,FL,Osceola County,Citrus Ridge,7/31/2022,10.7
+Zip,34748,FL,Lake County,Leesburg,7/31/2022,10.5
+Zip,34753,FL,Lake County,Mascotte,7/31/2022,11
+Zip,34756,FL,Lake County,Montverde,7/31/2022,11
+Zip,34758,FL,Polk County,Poinciana,7/31/2022,11.8
+Zip,34759,FL,Polk County,Poinciana,7/31/2022,11.1
+Zip,34760,FL,Orange County,Oakland,7/31/2022,10.7
+Zip,34761,FL,Orange County,Ocoee,7/31/2022,10.9
+Zip,34762,FL,Lake County,Leesburg,7/31/2022,9
+Zip,34769,FL,Osceola County,Saint Cloud,7/31/2022,11.1
+Zip,34771,FL,Osceola County,Saint Cloud,7/31/2022,11.3
+Zip,34772,FL,Osceola County,Saint Cloud,7/31/2022,11.8
+Zip,34773,FL,Osceola County,Saint Cloud,7/31/2022,11.5
+Zip,34785,FL,Sumter County,Wildwood,7/31/2022,11.2
+Zip,34786,FL,Orange County,Windermere,7/31/2022,10.9
+Zip,34787,FL,Orange County,Winter Garden,7/31/2022,11.2
+Zip,34788,FL,Lake County,Leesburg,7/31/2022,11.3
+Zip,34797,FL,Lake County,Yalaha,7/31/2022,11.3
+Zip,34945,FL,Saint Lucie County,Fort Pierce,7/31/2022,11.9
+Zip,34946,FL,Saint Lucie County,Fort Pierce,7/31/2022,10.4
+Zip,34947,FL,Saint Lucie County,Fort Pierce,7/31/2022,10.4
+Zip,34949,FL,Saint Lucie County,Fort Pierce,7/31/2022,10.8
+Zip,34950,FL,Saint Lucie County,Fort Pierce,7/31/2022,10.9
+Zip,34951,FL,Saint Lucie County,Fort Pierce,7/31/2022,11.5
+Zip,34952,FL,Saint Lucie County,Port Saint Lucie,7/31/2022,11.4
+Zip,34953,FL,Saint Lucie County,Port Saint Lucie,7/31/2022,11.8
+Zip,34956,FL,Martin County,Indiantown,7/31/2022,7.1
+Zip,34957,FL,Martin County,Jensen Beach,7/31/2022,11.1
+Zip,34972,FL,Okeechobee County,Okeechobee,7/31/2022,-3.3
+Zip,34974,FL,Okeechobee County,Okeechobee,7/31/2022,-2.7
+Zip,34981,FL,Saint Lucie County,Fort Pierce,7/31/2022,10.6
+Zip,34982,FL,Saint Lucie County,Fort Pierce,7/31/2022,11.1
+Zip,34983,FL,Saint Lucie County,Port Saint Lucie,7/31/2022,11.5
+Zip,34984,FL,Saint Lucie County,Port Saint Lucie,7/31/2022,11.4
+Zip,34986,FL,Saint Lucie County,Port Saint Lucie,7/31/2022,11.1
+Zip,34987,FL,Saint Lucie County,Port Saint Lucie,7/31/2022,10.7
+Zip,34990,FL,Martin County,Palm City,7/31/2022,11.2
+Zip,34994,FL,Martin County,Stuart,7/31/2022,9.4
+Zip,34996,FL,Martin County,Stuart,7/31/2022,10.5
+Zip,34997,FL,Martin County,Stuart,7/31/2022,10.4
