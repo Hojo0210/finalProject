@@ -1,4 +1,6 @@
-## Topic: Florida Housing Market & The Deciding Factors in Purchasing, Relocation, and Population Growth
+## Final Project - Group D
+
+# Topic: Florida Housing Market & The Deciding Factors in Purchasing, Relocation, and Population Growth
 
 # Hypothesis: 
 We believe that there are several specific factors that determine how and why people choose to relocate to and within Florida. Our goal is to use those metrics to predict which counties and areas have the most potential for future growth.
