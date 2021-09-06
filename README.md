@@ -1,4 +1,3 @@
-# finalProject
 ## Topic: Florida Housing Market & The Deciding Factors in Purchasing, Relocation, and Population Growth
 
 # Hypothesis: 
