@@ -17,24 +17,27 @@ Currently, our focus has been on deciding how to align and leverage US Census da
         - Climate/warmer weather
 
 # Tableau:
-	* https://public.tableau.com/shared/3JHMJ8MQZ?:display_count=n&:origin=viz_share_link
+* https://public.tableau.com/shared/3JHMJ8MQZ?:display_count=n&:origin=viz_share_link
 	
-	* For our tableau dashboard we created a story that included 5 dashboards analyzing the following data:	
-		- Home Values: 
-			* Comparison and trends of total population per county in florida, 
-			  along with data from High Tier, Low Tier, and Single Family Median Home values. 
-			* Also with a forecast created by tableau prediciting the next ten years.
-		- Employment: 
-			* Comparison and trends of total population per county in florida 
-			  along with data from Labor Force, Employment, Average Yearly Wage, Unemployment, Unemployment Rate%. 
-			* Also with a forecast created by tableau prediciting the next ten years.
-		- Crime: 
-			* Comparison and trends of total population per county in florida
-			  along with data from multiple crime reports, and an index of crime per 1k. 			
-			* also with a forecast created by tableau prediciting the next ten years.
-		- Machine Learning: 
-			* Comparison and trends of Average Yearly Wage, Employment, Labor Force, Population, Single Home Median Value 
-			  from the Machine Learning module we created.
-			* Also includes a forecast of the prediction of the next 10 years which was created using our machine learning code.
-		- Forecast Comparison: 
-			* Comparison between the Tableau Forecast and our Machine Learning code. detailing the similarities and differences 
+* For our tableau dashboard we created a story that included 5 dashboards analyzing the following data:	
+	- Home Values: 
+		* Comparison and trends of total population per county in florida, 
+		along with data from High Tier, Low Tier, and Single Family Median Home values. 
+		* Also with a forecast created by tableau prediciting the next ten years.
+		
+	- Employment: 
+		* Comparison and trends of total population per county in florida 
+		along with data from Labor Force, Employment, Average Yearly Wage, Unemployment, Unemployment Rate%. 
+		* Also with a forecast created by tableau prediciting the next ten years.
+		
+	- Crime: 
+		* Comparison and trends of total population per county in florida
+		along with data from multiple crime reports, and an index of crime per 1k. 			
+		* also with a forecast created by tableau prediciting the next ten years.
+		
+	- Machine Learning: 
+		* Comparison and trends of Average Yearly Wage, Employment, Labor Force, Population, Single Home Median Value 
+		  from the Machine Learning module we created.
+		* Also includes a forecast of the prediction of the next 10 years which was created using our machine learning code.
+	- Forecast Comparison: 
+		* Comparison between the Tableau Forecast and our Machine Learning code. detailing the similarities and differences 
